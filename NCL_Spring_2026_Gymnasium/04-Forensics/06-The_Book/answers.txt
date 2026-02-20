@@ -1,0 +1,12 @@
+Q1 – Operating system
+	Windows 10
+
+Q2 – Computer name
+	DESKTOP-OT97GG3
+
+Q3 – Logged-in user
+	liber8hacker
+
+Q4 – Full filepath + file of interest
+	C:\Users\liber8hacker\Desktop\black_book.db
+
