@@ -1,0 +1,164 @@
+strings -n 6 memdump.mem | grep -E "Windows 1[01]|Windows 8|Windows 7|Windows NT" | head -50 
+Mozilla/6.0 (compatible; MSIE 10.0; Windows NT 10.0; .NET CLR 1.1.4322)StartProc
+patible; MSIE 6.0; Windows NT 5.
+<?xml version="1.0" encoding="UTF-8"?><updateStore><sessionVariables><permanent><AttentionRequiredReason dataType="19">0</AttentionRequiredReason><CurrentState dataType="19">0</CurrentState><FlightEnabled dataType="3">0</FlightEnabled><LastError dataType="19">0</LastError><LastErrorState dataType="19">0</LastErrorState><LastMeteredScanTime dataType="21">133431987991263477</LastMeteredScanTime><LastUpdateCheckTime dataType="21">133431987991263477</LastUpdateCheckTime><LastUpdateInstallTime dataType="21">133431987982825802</LastUpdateInstallTime><RebootRequired dataType="11">False</RebootRequired></permanent><transient /></sessionVariables><updates><update updateId="{6964CF08-89CF-4A95-ACE6-FDB7A423C09C}" revisionNum="201" serializedUpdate="0AAAAAEAAAAAAAAAtPSClEPjtkOxcJplvIIsd///////////AwAAAB0goQ8wQ6hPium4d0c7ZEFdN8Kjigz5QrzgKDM+GYQHcVsI0h9fqUOIDe0VkBbVxgjPZGnPiZVKrOb9t6QjwJzJAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAABAAAAmayy/9TVEE63WVYhQtWQLskAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAEAAAADAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="><extendedProperties><AllowMeteredNetwork dataType="11">False</AllowMeteredNetwork><Error dataType="3">0</Error><ServiceId dataType="8">00000000-0000-0000-0000-000000000000</ServiceId><StatusTime dataType="21">133431996485077211</StatusTime><Title dataType="8">2017-05 Cumulative Update for Windows 10 for x64-based Systems (KB4019474)</Title><UpdateStatus dataType="19">4096</UpdateStatus><UseCallerToken dataType="11">False</UseCallerToken></extendedProperties></update><update updateId="{169A33A3-3A4B-48A4-AE87-DBFCBE8D2E78}" revisionNum="200" serializedUpdate="oAAAAAEAAAAAAAAAtPSClEPjtkOxcJplvIIsd///////////AAAAAKMzmhZLOqRIrofb/L6NLnjIAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAABAAAAV3OyTjNUokaYO8n9mER0eMgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAEAAAADAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="><extendedProperties><AllowMeteredNetwork dataType="11">False</AllowMeteredNetwork><Error dataType="3">0</Error><ServiceId dataType="8">00000000-0000-0000-0000-000000000000</ServiceId><StatusTime dataType="21">133431996485077211</StatusTime><Title dataType="8">Update for Windows 10 Version 1511 for x64-based Systems (KB4033631)</Title><UpdateStatus dataType="19">4096</UpdateStatus><UseCallerToken dataType="11">False</UseCallerToken></extendedProperties></update><update updateId="{31F059B7-84BB-477A-A3BB-26E4F162C16A}" revisionNum="200" serializedUpdate="oAAAAAEAAAAAAAAAtPSClEPjtkOxcJplvIIsd///////////AAAAALdZ8DG7hHpHo7sm5PFiwWrIAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAABAAAAcgJ/76Rm+kKr1h0+KbIsXMgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAEAAAADAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="><extendedProperties><AllowMeteredNetwork dataType="11">False</AllowMeteredNetwork><Error dataType="3">0</Error><ServiceId dataType="8">00000000-0000-0000-0000-000000000000</ServiceId><StatusTime dataType="21">133431996485077211</StatusTime><Title dataType="8">Update for Windows 10 for x64-based Systems (KB4033631)</Title><UpdateStatus dataType="19">4096</UpdateStatus><UseCallerToken dataType="11">False</UseCallerToken></extendedProperties></update><update updateId="{681175D9-72C7-4714-B7E3-ECF83E46AA4A}" revisionNum="202" serializedUpdate="oAAAAAEAAAAAAAAAtPSClEPjtkOxcJplvIIsd///////////AAAAANl1EWjHchRHt+Ps+D5GqkrKAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAABAAAAwDctIyjraUOj1Eh4ZJTB4coAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAEAAAADAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="><extendedProperties><AllowMeteredNetwork dataType="11">False</AllowMeteredNetwork><Error dataType="3">0</Error><ServiceId dataType="8">00000000-0000-0000-0000-000000000000</ServiceId><StatusTime dataType="21">133431996485077211</StatusTime><Title dataType="8">Update for Windows 10 for x64-based Systems (KB4021701)</Title><UpdateStatus dataType="19">4096</UpdateStatus><UseCallerToken dataType="11">False</UseCallerToken></extendedProperties></update></updates><lastSessionVariables><ActiveSessionId dataType="8">0803c4ff-394b-4919-95b3-9304e2d4c42f</ActiveSessionId><MsUpdateServiceOnly dataType="11">False</MsUpdateServiceOnly><SessionStartTime dataType="21">133432024965817747</SessionStartTime></lastSessionVariables><upH
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\ipsecFkShutdown
+agentMozilla/5.0 (Windows NT 10.
+agentMozilla/5.0 (Windows NT 10.
+Hrivileges missing in order to complete an operation.  The types ofaccess privileges can be found under the Windows NT Privileges.  Example: SE_SHUTDOWN_NAME
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\C:\ProgramData\DDISMServices.logNTCurrentVersionDismCore.dllCoreConfigFlagDism.exeC:\ProgramData\DISMService!#TEL:Trojan:Win32/Poison.DD!MTB
+Microsoft Windows NT
+Windows NT Access Provider
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTMwbem
+a/5.0 (Windows NT 10.0; 
+10.0; Windows NT 6.2; Trident/6
+SOFTWARE\Microsoft\Windows NT\C
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0; Cortana 1.4.8.176; 10.0.0.0.10240.21) like Gecko
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProductNamehttps://iplogger.comSelect * from Win32_ProcessorC:\ProgramData\AVAST SoftwareC:\ProgramData\ESETTrojan:HTML/Brocoiner.N!lib
+Nsrat.dll.klgUser-Agent: Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; MyIE 3.01)TWebCamThreadINDX(
+\Microsoft\Windows NT\CurrentVer 
+Windows NTC=
+!This is a Windows NT windowed dynamic link library
+.0; Windows NT 5.0; .NET CLR 1.1.4322)=
+SOFTWARE\Microsoft\Windows NT\C
+Windows NT\CurrentVersion\Image 
+IE 8.0; Windows NT 6.2; Trident
+[Mozilla/5.0 (Windows NT 6.1) (compatible; MSIE 6.0; Windows N
+SOFTWARE\Microsoft\Windows NT\C
+ype="3">0</Error><ServiceId dataType="8">00000000-0000-0000-0000-000000000000</ServiceId><StatusTime dataType="21">133431996485077211</StatusTime><Title dataType="8">Update for Windows 10 Version 1511 for x64-based Systems (KB4033631)</Title><UpdateStatus dataType="19">4096</UpdateStatus><UseCallerToken dataType="11">False</UseCallerToken></extendedProperties></update><update updateId="{31F059B7-84BB-477A-A3BB-26E4F162C16A}" revisionNum="200" serializedUpdate="oAAAAAEAAAAAAAAAtPSClEPjtkOxcJplvIIsd///////////AAAAALdZ8DG7hHpHo7sm5PFiwWrIAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAABAAAAcgJ/76Rm+kKr1h0+KbIsXMgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAEAAAADAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="><extendedProperties><AllowMeteredNetwork dataType="11">False</AllowMeteredNetwork><Error dataType="3">0</Error><ServiceId dataType="8">00000000-0000-0000-0000-000000000000</ServiceId><StatusTime dataType="21">133431996485077211</StatusTime><Title dataType="8">Update for Windows 10 for x64-based Systems (KB4033631)</Title><UpdateStatus dataType="19">4096</UpdateStatus><UseCallerToken dataType="11">False</UseCallerToken></extendedProperties></update><update updateId="{681175D9-72C7-4714-B7E3-ECF83E46AA4A}" revisionNum="202" serializedUpdate="oAAAAAEAAAAAAAAAtPSClEPjtkOxcJplvIIsd///////////AAAAANl1EWjHchRHt+Ps+D5GqkrKAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAABAAAAwDctIyjraUOj1Eh4ZJTB4coAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAEAAAADAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="><extendedProperties><AllowMeteredNetwork dataType="11">False</AllowMeteredNetwork><Error dataType="3">0</Error><ServiceId dataType="8">00000000-0000-0000-0000-000000000000</ServiceId><StatusTime dataType="21">133431996485077211</StatusTime><Title dataType="8">Update for Windows 10 for x64-based Systems (KB4021701)</Title><UpdateStatus dataType="19">4096</UpdateStatus><UseCallerToken dataType="11">False</UseCallerToken></extendedProperties></update></updates><lastSessionVariables /><updateHash>Mj1eLwQVyaI2s0BhIYPAQ6L9F/4=</updateHash></updaFILE0
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\msasn1
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows
+Nsrat.dll.klgUser-Agent: Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; MyIE 3.01)TWebCamThread
+Microsoft\Windows NT\CurrentVers@
+Windows NT
+Windows NT
+soft\Windows NT\Curx
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\msasn1
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SvcHost
+Could not hide file:Could not set file to system file:Software\Microsoft\Windows NT\CurrentVersion\Winlogon
+Q>2HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\Windows
+Windows NTFS Driver
+Win32Registry|Software\Microsoft\Windows NT\CurrentVersionP/6
+Win32Registry|Software\Microsoft\Windows NT\CurrentVersion|Plus! VersionNumber
+SOFTWARE\Microsoft\Windows NT\C
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\msasn1
+Windows NT SP6 (Chinese)
+Windows NTC=
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.C:\windows\ext_driver.exe
+Windows NTC=
+SOFTWARE\Microsoft\Windows NT\C
+C:\Program Files\Windows NT\
+                                                                             
+┌──(kali㉿kali)-[~/NCL/NCL_Spring_2026_Gymnasium/04-Forensics/06-The_Book]
+└─$ less answers.txt 
+                                                                             
+┌──(kali㉿kali)-[~/NCL/NCL_Spring_2026_Gymnasium/04-Forensics/06-The_Book]
+└─$ strings -n 6 memdump.mem | grep -F "COMPUTERNAME=" | head -20 
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=DESKTOP-OT97GG3
+COMPUTERNAME=C
+COMPUTERNAME=DESKTOP-OT97GG3
+                                                                             
+┌──(kali㉿kali)-[~/NCL/NCL_Spring_2026_Gymnasium/04-Forensics/06-The_Book]
+└─$ strings -n 6 memdump.mem | grep -F "USERNAME=" | head -20 
+
+USERNAME=liber8hacker
+USERNAME=liber8hacker
+USERNAME=liber8hacker
+USERNAME=liber8hacker
+USERNAME=liber8hacker
+USERNAME=DESKTOP-OT97GG3$
+USERNAME=DESKTOP-OT97GG3$
+USERNAME=SYSTEM
+USERNAME=SYSTEM
+USERNAME=DESKTOP-OT97GG3$
+USERNAME=liber8hacker
+USERNAME=liber8hacker
+USERNAME=DESKTOP-OT97GG3$
+USERNAME=DESKTOP-OT97GG3$
+USERNAME=DESKTOP-OT97GG3$
+USERNAME=liber8hacker
+USERNAME=liber8hacker
+USERNAME=liber8hacker
+USERNAME=DESKTOP-OT97GG3$
+USERNAME=DESKTOP-OT97GG3$
+                                                                             
+┌──(kali㉿kali)-[~/NCL/NCL_Spring_2026_Gymnasium/04-Forensics/06-The_Book]
+└─$ # show offsets where the filename appears in raw memory
+grep -aob "black_book.db" memdump.mem | head -20 
+
+109236174:black_book.db
+224469566:black_book.db
+251277262:black_book.db
+377950006:black_book.db
+378057278:black_book.db
+387625414:black_book.db
+387626182:black_book.db
+387627238:black_book.db
+430071515:black_book.db
+449101531:black_book.db
+550977286:black_book.db
+612884187:black_book.db
+621456806:black_book.db
+658699563:black_book.db
+754351235:black_book.db
+766976782:black_book.db
+766976827:black_book.db
+766976879:black_book.db
+779083094:black_book.db
+894189658:black_book.db
+                                                                             
+┌──(kali㉿kali)-[~/NCL/NCL_Spring_2026_Gymnasium/04-Forensics/06-The_Book]
+└─$ # find the exact location of `"cloud`
+grep -aob "\"cloud" memdump.mem | head 
+
+238239510:"cloud
+643948554:"cloud
+695731006:"cloud
+                                                                             
+┌──(kali㉿kali)-[~/NCL/NCL_Spring_2026_Gymnasium/04-Forensics/06-The_Book]
+└─$ OFFSET=238239510
+dd if=memdump.mem bs=1 skip=$((OFFSET-60)) count=140 2>/dev/null | strings -n 3         
+
+J3_1c"m
+Bencryptingyou9"cloud
+Falsi
+0ce@
+6>M;
+WU DH classam
+detec
+                                                                             
+┌──(kali㉿kali)-[~/NCL/NCL_Spring_2026_Gymnasium/04-Forensics/06-The_Book]
+└─$ grep -aob "cryptingyou9" memdump.mem | head 
+238239498:cryptingyou9
+                                                                             
+┌──(kali㉿kali)-[~/NCL/NCL_Spring_2026_Gymnasium/04-Forensics/06-The_Book]
+└─$ cat memdump.mem | grep -aob "SQLite format 3" | head
+8107452:SQLite format 3
+11199253:SQLite format 3
+87150592:SQLite format 3
+157699112:SQLite format 3
+282279936:SQLite format 3
+294492512:SQLite format 3
+389466976:SQLite format 3
+595366840:SQLite format 3
+600692064:SQLite format 3
+665798832:SQLite format 3
+
