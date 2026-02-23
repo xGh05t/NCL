@@ -1,0 +1,7 @@
+Q1: bitcoin
+Q2: $239.5
+Q3: Coinbase
+Q4: b1gbird@gmail.com
+Q5: 5274cfba585a4b5681527a37f95c76340428916bb7480cef6c545f0a28dcd2d7
+Q6: 0.22616302 BTC
+Q7: 18z6bTFjxkXCmhfp8YBetR2wgmoVjXGJZz
