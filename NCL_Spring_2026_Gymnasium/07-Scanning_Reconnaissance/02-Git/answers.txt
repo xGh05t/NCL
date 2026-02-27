@@ -1,0 +1,20 @@
+Q1 – What is the display name of the author of this git project?
+	Cyber Cyber
+
+Q2 – What is the short commit hash (first 8 characters) of the initial commit?
+	f9714edd
+
+Q3 – What is flag #1?
+	SKY-HSNO-2303
+
+Q4 – What is flag #2?
+	SKY-OZNW-3730
+
+Q5 – What is flag #3?
+	SKY-CCXL-4067
+
+Q6 – What is flag #4?
+	SKY-IRRK-9672
+
+Q7 – What is flag #5?
+	SKY-DKIT-9801
