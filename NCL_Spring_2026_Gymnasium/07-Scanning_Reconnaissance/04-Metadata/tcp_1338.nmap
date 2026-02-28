@@ -1,18 +1,17 @@
-# Nmap 7.98 scan initiated Fri Feb 27 01:42:19 2026 as: /usr/lib/nmap/nmap --privileged -Pn -sV -sC -p1338 -oN tcp_1338.nmap metadata.services.cityinthe.cloud
-Nmap scan report for metadata.services.cityinthe.cloud (18.232.243.186)
-Host is up (0.036s latency).
-Other addresses for metadata.services.cityinthe.cloud (not scanned): 18.205.171.148
-rDNS record for 18.232.243.186: ec2-18-232-243-186.compute-1.amazonaws.com
+# Nmap 7.98 scan initiated Fri Feb 27 23:59:33 2026 as: /usr/lib/nmap/nmap -Pn -sV -sC -p1338 -oN tcp.nmap metadata.services.cityinthe.cloud
+Nmap scan report for metadata.services.cityinthe.cloud (18.205.171.148)
+Host is up (0.027s latency).
+Other addresses for metadata.services.cityinthe.cloud (not scanned): 18.232.243.186
+rDNS record for 18.205.171.148: ec2-18-205-171-148.compute-1.amazonaws.com
 
 PORT     STATE SERVICE VERSION
 1338/tcp open  http    Golang net/http server
-|_http-title: Site doesn't have a title (text/plain).
 | fingerprint-strings: 
 |   FourOhFourRequest: 
 |     HTTP/1.0 404 Not Found
 |     Content-Type: text/plain; charset=utf-8
 |     X-Content-Type-Options: nosniff
-|     Date: Fri, 27 Feb 2026 06:42:55 GMT
+|     Date: Sat, 28 Feb 2026 05:00:03 GMT
 |     Content-Length: 337
 |     <?xml version="1.0" encoding="iso-8859-1"?>
 |     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
@@ -33,18 +32,19 @@ PORT     STATE SERVICE VERSION
 |   GetRequest, HTTPOptions: 
 |     HTTP/1.0 200 OK
 |     Content-Type: text/plain
-|     Date: Fri, 27 Feb 2026 06:42:39 GMT
+|     Date: Sat, 28 Feb 2026 04:59:47 GMT
 |     Content-Length: 7
 |_    latest
+|_http-title: Site doesn't have a title (text/plain).
 1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
-SF-Port1338-TCP:V=7.98%I=7%D=2/27%Time=69A13CD8%P=x86_64-pc-linux-gnu%r(Ge
+SF-Port1338-TCP:V=7.98%I=7%D=2/27%Time=69A27641%P=x86_64-pc-linux-gnu%r(Ge
 SF:nericLines,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Type:\x20t
 SF:ext/plain;\x20charset=utf-8\r\nConnection:\x20close\r\n\r\n400\x20Bad\x
 SF:20Request")%r(GetRequest,6C,"HTTP/1\.0\x20200\x20OK\r\nContent-Type:\x2
-SF:0text/plain\r\nDate:\x20Fri,\x2027\x20Feb\x202026\x2006:42:39\x20GMT\r\
+SF:0text/plain\r\nDate:\x20Sat,\x2028\x20Feb\x202026\x2004:59:47\x20GMT\r\
 SF:nContent-Length:\x207\r\n\r\nlatest\n")%r(HTTPOptions,6C,"HTTP/1\.0\x20
-SF:200\x20OK\r\nContent-Type:\x20text/plain\r\nDate:\x20Fri,\x2027\x20Feb\
-SF:x202026\x2006:42:39\x20GMT\r\nContent-Length:\x207\r\n\r\nlatest\n")%r(
+SF:200\x20OK\r\nContent-Type:\x20text/plain\r\nDate:\x20Sat,\x2028\x20Feb\
+SF:x202026\x2004:59:47\x20GMT\r\nContent-Length:\x207\r\n\r\nlatest\n")%r(
 SF:RTSPRequest,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Type:\x20
 SF:text/plain;\x20charset=utf-8\r\nConnection:\x20close\r\n\r\n400\x20Bad\
 SF:x20Request")%r(Help,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-T
@@ -53,8 +53,8 @@ SF:\x20Bad\x20Request")%r(SSLSessionReq,67,"HTTP/1\.1\x20400\x20Bad\x20Req
 SF:uest\r\nContent-Type:\x20text/plain;\x20charset=utf-8\r\nConnection:\x2
 SF:0close\r\n\r\n400\x20Bad\x20Request")%r(FourOhFourRequest,1EF,"HTTP/1\.
 SF:0\x20404\x20Not\x20Found\r\nContent-Type:\x20text/plain;\x20charset=utf
-SF:-8\r\nX-Content-Type-Options:\x20nosniff\r\nDate:\x20Fri,\x2027\x20Feb\
-SF:x202026\x2006:42:55\x20GMT\r\nContent-Length:\x20337\r\n\r\n<\?xml\x20v
+SF:-8\r\nX-Content-Type-Options:\x20nosniff\r\nDate:\x20Sat,\x2028\x20Feb\
+SF:x202026\x2005:00:03\x20GMT\r\nContent-Length:\x20337\r\n\r\n<\?xml\x20v
 SF:ersion=\"1\.0\"\x20encoding=\"iso-8859-1\"\?>\n<!DOCTYPE\x20html\x20PUB
 SF:LIC\x20\"-//W3C//DTD\x20XHTML\x201\.0\x20Transitional//EN\"\n\t\"http:/
 SF:/www\.w3\.org/TR/xhtml1/DTD/xhtml1-transitional\.dtd\">\n<html\x20xmlns
@@ -70,4 +70,4 @@ SF:20Bad\x20Request\r\nContent-Type:\x20text/plain;\x20charset=utf-8\r\nCo
 SF:nnection:\x20close\r\n\r\n400\x20Bad\x20Request");
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Fri Feb 27 01:42:58 2026 -- 1 IP address (1 host up) scanned in 38.51 seconds
+# Nmap done at Sat Feb 28 00:00:11 2026 -- 1 IP address (1 host up) scanned in 38.39 seconds
