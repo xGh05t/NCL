@@ -1,0 +1,6 @@
+Volatility 3 Framework 2.26.2
+
+Cache	FileObject	FileName	Result
+
+DataSectionObject	0xe0003d624b90	black_book.db	file.0xe0003d624b90.0xe0003f47b990.DataSectionObject.black_book.db.dat
+SharedCacheMap	0xe0003d624b90	black_book.db	file.0xe0003d624b90.0xe0003f6d25a0.SharedCacheMap.black_book.db.vacb
