@@ -1,0 +1,9 @@
+# Nmap 7.98 scan initiated Thu Feb 26 21:39:50 2026 as: /usr/lib/nmap/nmap --privileged -sU -Pn --top-ports 200 -oN udp_top200.nmap ports.cityinthe.cloud
+Nmap scan report for ports.cityinthe.cloud (34.199.237.244)
+Host is up (0.036s latency).
+rDNS record for 34.199.237.244: ec2-34-199-237-244.compute-1.amazonaws.com
+Not shown: 199 open|filtered udp ports (no-response)
+PORT  STATE SERVICE
+7/udp open  echo
+
+# Nmap done at Thu Feb 26 21:40:30 2026 -- 1 IP address (1 host up) scanned in 39.96 seconds
