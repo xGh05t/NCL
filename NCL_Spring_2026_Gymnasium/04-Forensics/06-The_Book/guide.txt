@@ -1,0 +1,329 @@
+# NCL Spring 2026 Gymnasium
+## Forensics/The Book (Hard)
+
+This walkthrough explains **step by step** how to analyze the memory dump for the CyberSkyline challenge and extract the required answers for Q1–Q6.
+
+The official challenge prompt and background for this memory dump can be found in the CyberSkyline trove guide:
+https://trove.cyberskyline.com/eaa752e9e94b46a4abea43b7019d0a1b
+
+---
+
+## 1) Download memdump.mem.xz make a working directory
+
+mkdir -p ~/data
+
+mv ~/Downloads/* ~/data
+
+---
+
+## 2) Decompress the Memory Image
+
+The challenge file is compressed with `.xz`. Decompress it:
+
+```bash
+unxz ~/data/memdump.mem.xz
+```
+
+You should now have:
+
+```
+~/data/memdump.mem
+```
+
+---
+
+## 3) Create Dockerfile
+
+cd ~
+
+vim Dockerfile
+
+Copy the contents below into `Dockerfile` in your working folder.
+
+```
+FROM python:3.11-slim-bookworm
+
+WORKDIR /opt
+
+# Install required system packages
+RUN apt-get update && \
+    apt-get install -y \
+        git \
+        build-essential \
+        yara \
+        binutils \
+        file \
+        curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Clone Volatility 3 (core)
+RUN git clone --branch v2.26.2 \
+    https://github.com/volatilityfoundation/volatility3.git
+
+# Clone community plugins
+RUN git clone https://github.com/volatilityfoundation/community3.git
+
+# Install Python dependencies
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir \
+        distorm3 \
+        yara-python \
+        capstone \
+        pefile \
+        pypykatz \
+        impacket \
+        pycryptodome \
+        cryptography \
+        construct \
+        asn1crypto && \
+    cd volatility3 && pip install --no-cache-dir .
+
+# Create symbol directory
+RUN mkdir -p /symbols
+ENV VOLATILITY_SYMBOLS=/symbols
+
+# Add community plugins to plugin path
+ENV VOLATILITY_PLUGIN_DIRS=/opt/community3
+
+ENTRYPOINT ["vol"]
+```
+
+---
+
+## 4) Build the Docker Image
+
+In your working directory:
+
+```bash
+docker build -t vol3 .
+```
+
+This builds the Volatility 3 container with necessary plugins and modules.
+
+
+---
+
+## 5) Confirm Memory File Type
+
+You can check file type to confirm it *looks* like a Windows memory image:
+
+```bash
+file ~/data/memdump.mem
+```
+
+This indicates the image was taken from a Windows system.
+
+---
+
+# Q1 — What Operating System?
+
+Use Volatility’s info plugin:
+
+```bash
+
+sudo docker run --rm -it -v $(pwd)/data:/data vol -q -f /data/memdump.mem windows.info
+```
+
+Look for OS and version details in the output.
+
+### ✅ Answer
+```
+Windows 10
+```
+
+---
+
+# Q2 — What is the Computer Name?
+
+Windows environment variables include the computer name.
+
+```bash
+sudo docker run --rm -it -v $(pwd)/data:/data vol -q -f /data/memdump.mem windows.envars > ComputerName
+
+egrep -i COMPUTERNAME ComputerName
+```
+
+You’ll see something like:
+
+```
+COMPUTERNAME=DESKTOP-OT97GG3
+```
+
+### ✅ Answer
+```
+DESKTOP-OT97GG3
+```
+
+---
+
+# Q3 — What User Was Logged In?
+
+The same `envars` output will include the username and profile paths.
+
+```bash
+sudo docker run --rm -it -v $(pwd)/data:/data vol -q -f /data/memdump.mem windows.envars > windows.envars
+
+egrep -i "USERNAME|USERPROFILE" windows.envars
+```
+
+You will see references like:
+
+```
+USERNAME=liber8hacker
+USERPROFILE=C:\Users\liber8hacker
+```
+
+### ✅ Answer
+```
+liber8hacker
+```
+
+---
+
+# Q4 — What is the Full Path of the Suspicious File?
+
+Scan for file objects in memory.
+
+```bash
+sudo docker run --rm -it -v $(pwd)/data:/data vol -q -f /data/memdump.mem windows.filescan > windows.filescan
+
+egrep -i "black_book" windows.filescan
+
+0xe0003d624b90  \Users\liber8hacker\Desktop\black_book.db
+0xe0003e836f20  \Users\liber8hacker\Desktop\black_book.db
+0xe0003f5a9d00  \Users\liber8hacker\Desktop\black_book.db
+0xe0003f861960  \Users\liber8hacker\Desktop\black_book.db-journal
+```
+
+This shows file paths for objects matching `black_book`.
+
+You will see an entry like:
+
+```
+C:\Users\liber8hacker\Desktop\black_book.db
+```
+
+### ✅ Answer
+```
+C:\Users\liber8hacker\Desktop\black_book.db
+```
+
+---
+
+## Extract the Suspicious File
+
+To extract the file from memory, we use the virtual address from `windows.filescan` output.
+
+1. Create output directory:
+
+```bash
+mkdir out
+```
+
+2. Run dumpfiles with the address:
+
+```bash
+sudo docker run --rm -it -v $(pwd)/data:/data vol -q -f /data/memdump.mem windows.dumpfiles --virtaddr 0xe0003d624b90 --dump-dir /data
+
+sudo docker run --rm -it -v $(pwd):/data -v $(pwd)/out:/out vol3:memdump -f /data/memdump.mem windows.dumpfiles --virtaddr <FILE_ADDRESS_FROM_FILESCAN> --dump-dir /out
+```
+
+Replace `<FILE_ADDRESS_FROM_FILESCAN>` with the actual hex address `0xe000...`.
+
+After running, two files will be written to `out/`.
+
+Check file type:
+
+```bash
+file out/*
+```
+
+One will indicate a **SQLite database**.
+
+Rename/copy it out:
+
+```bash
+cp out/<dumped_file> ./black_book.db
+```
+
+---
+
+# Q5 — What Is the Real Name of “cloud”?
+
+Now that you have `black_book.db`, open it with SQLite.
+
+On your host (if SQLite is installed):
+
+```bash
+sqlite3 black_book.db
+```
+
+Or use a GUI SQLite browser.
+
+Inside SQLite:
+
+```sql
+.tables
+SELECT * FROM <relevant_table> WHERE alias='cloud';
+```
+
+This reveals the real name associated with `cloud`.
+
+### ✅ Answer
+```
+Gloria Hampton
+```
+
+---
+
+# Q6 — What Is the Logged-In User’s Password?
+
+The official challenge walkthrough suggests using **registry hashdump** and cracking the hash if necessary. :contentReference[oaicite:2]{index=2}
+
+### Option 1 — Try Volatility’s registry hashdump
+
+```bash
+docker run --rm -it -v $(pwd):/data vol3:memdump \
+  -f /data/memdump.mem windows.registry.hashdump
+```
+
+This extracts NTLM hashes from memory.
+
+If you get output, note the hash for the user `liber8hacker`.
+
+### Option 2 — Crack the hash (if only NTLM is available)
+
+Upload the NTLM hash to a cracking site like CrackStation (simple passwords can be cracked easily). :contentReference[oaicite:3]{index=3}
+
+For this challenge, the NTLM hash corresponds to a weak password.
+
+### Final Password
+
+```
+avatar2
+```
+
+---
+
+# Final Answers Summary
+
+```
+Q1: Windows 10
+Q2: DESKTOP-OT97GG3
+Q3: liber8hacker
+Q4: C:\Users\liber8hacker\Desktop\black_book.db
+Q5: Gloria Hampton
+Q6: avatar2
+```
+
+---
+
+# Notes
+
+- This challenge demonstrates basic Windows memory forensics:
+  - Identify OS and users from environment variables
+  - File object scanning and extraction
+  - SQLite analysis
+  - Extracting credential hashes from registry
+- The official trove guide recommends verifying Volatility output and understanding output differences between versions. :contentReference[oaicite:4]{index=4}
+
