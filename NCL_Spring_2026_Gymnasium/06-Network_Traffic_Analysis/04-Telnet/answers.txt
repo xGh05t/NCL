@@ -1,0 +1,6 @@
+Q1: test
+Q2: capture
+Q3: uname -a
+Q4: 2011
+Q5: cm4116
+Q6: armv4tl
