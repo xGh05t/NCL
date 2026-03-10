@@ -1,8 +1,0 @@
-Q1: How many transactions?
-	192
-
-Q2: Largest purchase Transaction ID?
-	3a4da8c8-6934-4655-9ec5-335ab4540a2b
-
-Q3: Which state made the most purchases?
-	MA

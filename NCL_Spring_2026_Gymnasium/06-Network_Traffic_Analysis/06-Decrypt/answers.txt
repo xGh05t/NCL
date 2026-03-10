@@ -1,8 +1,0 @@
-Q1 - Cipher Suite:
-	TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
-
-Q2 - Domain Covered by SSL Key:
-	tomsvacations.com
-
-Q3 - Hidden Flag:
-	SKY-LADN-1435
