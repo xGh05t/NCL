@@ -1,0 +1,4612 @@
+{
+    "Records": [
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760392004",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAE717198796A7",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:04:17.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:04:17.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "a056a6c7-5ed9-478c-a8c2-afdbb4aac47b"
+            },
+            "requestID": "a056a6c7-5ed9-478c-a8c2-afdbb4aac47b",
+            "eventID": "86c71d38-6a4f-4c63-8899-7ec9855ff477",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760629903",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:04:29.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:04:29.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "b097a053-2394-43e3-95eb-f8a01f1b4381"
+            },
+            "requestID": "b097a053-2394-43e3-95eb-f8a01f1b4381",
+            "eventID": "8dfdb5cb-2932-4626-bffd-7a8a4bc02754",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760577538",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:12:22.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:12:22.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-251de753"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "7daff973-fb09-44d0-b408-e69d6bae03ef"
+            },
+            "requestID": "7daff973-fb09-44d0-b408-e69d6bae03ef",
+            "eventID": "b5b2317b-c7b5-4b19-a265-51da3f7a7800",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760520651",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:17:40.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:17:40.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "CreateTags",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "bc46758e-15aa-49ce-82e9-aa9990fc6ac0"
+            },
+            "requestID": "bc46758e-15aa-49ce-82e9-aa9990fc6ac0",
+            "eventID": "d0c922c8-288e-4ee9-9916-93a393d319e9",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760159642",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:18:21.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:18:21.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-27a1ce30"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "55705082-c4ba-473a-89ef-3fba1d884df4"
+            },
+            "requestID": "55705082-c4ba-473a-89ef-3fba1d884df4",
+            "eventID": "726d2079-3ff8-4e80-893a-d8fa3e7025f5",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760322955",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:23:16.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:23:16.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-61b5634c"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "857aa7b3-2eda-4425-8b9a-8a239bbc869b"
+            },
+            "requestID": "857aa7b3-2eda-4425-8b9a-8a239bbc869b",
+            "eventID": "8f53e148-a93c-4379-8f78-f82820e7ee6d",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760996865",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:25:07.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:25:07.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-b8778d3b"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "a6a1fed8-c774-4417-a1fe-5e74fe6d670d"
+            },
+            "requestID": "a6a1fed8-c774-4417-a1fe-5e74fe6d670d",
+            "eventID": "6486a410-d09c-482b-a8ba-a78325042eab",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760631756",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA14BA2767D9A1",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:25:20.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:25:20.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-d47bea9d"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "5ef48502-fb20-4e8a-aacf-390bdcccfc89"
+            },
+            "requestID": "5ef48502-fb20-4e8a-aacf-390bdcccfc89",
+            "eventID": "6515fb7f-47ea-4352-b559-282318d6d42c",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760238890",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:27:08.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:27:08.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "45.33.32.156",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "ec349da5-ab6a-4d28-a93c-fc14b31188e6"
+            },
+            "requestID": "ec349da5-ab6a-4d28-a93c-fc14b31188e6",
+            "eventID": "a08b0cca-ec3d-47b8-9a2b-f769ac3da10b",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760290556",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:32:58.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:32:58.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "9974d0f6-dc3f-449f-a826-92a5b4b8cb9d"
+            },
+            "requestID": "9974d0f6-dc3f-449f-a826-92a5b4b8cb9d",
+            "eventID": "190d2ab6-7f3a-4a0e-bc20-b6b070b0ff66",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760103717",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:37:32.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:37:32.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "CreateTags",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "5c697d0b-71cf-4520-a406-99eeca33b0af"
+            },
+            "requestID": "5c697d0b-71cf-4520-a406-99eeca33b0af",
+            "eventID": "3ca407e4-94fa-4164-825d-09dd07320294",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760254511",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:38:08.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:38:08.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-b1bc0978"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "0f3f8081-ad92-4984-ab6a-f463c577a0e1"
+            },
+            "requestID": "0f3f8081-ad92-4984-ab6a-f463c577a0e1",
+            "eventID": "59577a02-e11f-4d31-b31a-6a1ddb2d981a",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760270555",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:42:17.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:42:17.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "53ef3c19-3d10-472f-81ad-b8ed5f91a5f5"
+            },
+            "requestID": "53ef3c19-3d10-472f-81ad-b8ed5f91a5f5",
+            "eventID": "78172cbf-e0e2-4733-bde1-2644cc5f4324",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760988662",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:42:57.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:42:57.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.6",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "815da90d-a213-420a-965a-60678a82900f"
+            },
+            "requestID": "815da90d-a213-420a-965a-60678a82900f",
+            "eventID": "c8c56734-254c-4359-94ba-7a71148dc7f3",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760351083",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA14BA2767D9A1",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:48:13.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:48:13.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "TerminateInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-47f4167c"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "3142957a-7d44-4792-9a04-bae01e709f28"
+            },
+            "requestID": "3142957a-7d44-4792-9a04-bae01e709f28",
+            "eventID": "39d0b5d6-a174-4c95-a2e7-69e773d6dd5c",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760216970",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:49:41.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:49:41.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "CreateTags",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "364d0a76-52eb-463f-b2ae-60ccbe9417b8"
+            },
+            "requestID": "364d0a76-52eb-463f-b2ae-60ccbe9417b8",
+            "eventID": "f7b83d03-d425-4448-9a85-fac0ec1a8b60",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760122056",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:53:13.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:53:13.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "e1816d1a-1933-4686-8f61-1b4305a2d010"
+            },
+            "requestID": "e1816d1a-1933-4686-8f61-1b4305a2d010",
+            "eventID": "3ed61b1f-45a1-4555-856f-d401693ae562",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760678478",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA14BA2767D9A1",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:58:34.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:58:34.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "06a8df06-4886-41e5-b63e-81f518458fb6"
+            },
+            "requestID": "06a8df06-4886-41e5-b63e-81f518458fb6",
+            "eventID": "2582e45e-aec9-4e39-ba07-89b29aa41ddf",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760580547",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAE717198796A7",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T10:58:36.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T12:58:36.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StartInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-2a480e33"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "8df55e46-969e-44e5-a272-f8e1667da334"
+            },
+            "requestID": "8df55e46-969e-44e5-a272-f8e1667da334",
+            "eventID": "82edef73-cf00-459a-b178-69d56cce1daf",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760361941",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T11:03:41.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T13:03:41.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "b0fc550e-7f4c-4666-b532-db520f4b4bb9"
+            },
+            "requestID": "b0fc550e-7f4c-4666-b532-db520f4b4bb9",
+            "eventID": "16fe0933-0c68-4e1c-966c-883d4108d62c",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760728038",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T11:15:21.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T13:15:21.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-47f4167c"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "e0f77100-4308-4a0e-8bb5-e2ee43829238"
+            },
+            "requestID": "e0f77100-4308-4a0e-8bb5-e2ee43829238",
+            "eventID": "870023ec-b452-4fdc-8326-18b9566ff404",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760817870",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T11:16:22.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T13:16:22.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "d61d2dc9-2cc2-45b3-88e6-67c49d37d266"
+            },
+            "requestID": "d61d2dc9-2cc2-45b3-88e6-67c49d37d266",
+            "eventID": "843ff5d7-469e-4545-91b1-d2c0176e6014",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760427110",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAE717198796A7",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T11:16:34.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T13:16:34.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "4e67e9de-c491-4b21-9d9a-638a0c49b1ba"
+            },
+            "requestID": "4e67e9de-c491-4b21-9d9a-638a0c49b1ba",
+            "eventID": "0c208bea-bb21-4a81-a0f0-ec7f50fb5105",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760161483",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T11:17:57.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T13:17:57.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StartInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-7837dacb"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "bda629dc-8c44-481e-8929-33e6af52cc46"
+            },
+            "requestID": "bda629dc-8c44-481e-8929-33e6af52cc46",
+            "eventID": "c97d0579-17d0-4563-a07b-ff55dae4d952",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760523389",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T11:28:37.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T13:28:37.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-fe1d6063"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "be78b651-9264-4b0e-928b-d769d256197e"
+            },
+            "requestID": "be78b651-9264-4b0e-928b-d769d256197e",
+            "eventID": "d1186c0b-9413-4754-b515-d71ed7b9ec82",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760471507",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T11:31:07.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T13:31:07.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.6",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "4a1d59a7-029e-4327-9080-d76cc0524e64"
+            },
+            "requestID": "4a1d59a7-029e-4327-9080-d76cc0524e64",
+            "eventID": "5345c8da-5db4-4ba9-9d89-3322679ef834",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760354801",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T11:44:08.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T13:44:08.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "ba0a4b1c-d3f6-4881-9c82-1be3e5c11eec"
+            },
+            "requestID": "ba0a4b1c-d3f6-4881-9c82-1be3e5c11eec",
+            "eventID": "a1529616-e638-472b-a522-d4517a4b5d9e",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760517821",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T11:51:25.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T13:51:25.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "8cc02a73-ed32-416f-aaf6-ff0be4cc3760"
+            },
+            "requestID": "8cc02a73-ed32-416f-aaf6-ff0be4cc3760",
+            "eventID": "aa938f95-6d72-4f2b-a08e-8b85c0986864",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760535020",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T11:53:25.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T13:53:25.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-fe1d6063"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "98bce196-2b41-41bd-b67a-563876bdebe2"
+            },
+            "requestID": "98bce196-2b41-41bd-b67a-563876bdebe2",
+            "eventID": "d628e50e-eab1-432d-bc34-b16fb642eafc",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760245095",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAE717198796A7",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T11:55:11.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T13:55:11.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "9b41fecf-b8e9-4158-b0b9-dc00fd3e5767"
+            },
+            "requestID": "9b41fecf-b8e9-4158-b0b9-dc00fd3e5767",
+            "eventID": "6bc3e286-7ecb-40ac-a187-ec3c0a1eb83f",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760867460",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T11:58:40.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T13:58:40.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-27a1ce30"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "d4b99ec4-9bab-40bd-b6f8-6a3c3fbc34ef"
+            },
+            "requestID": "d4b99ec4-9bab-40bd-b6f8-6a3c3fbc34ef",
+            "eventID": "d38510b8-2373-455a-b9b0-415e3db35963",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760974244",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA14BA2767D9A1",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:00:32.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:00:32.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "21f7534d-4244-4256-b4c6-1e898b876db3"
+            },
+            "requestID": "21f7534d-4244-4256-b4c6-1e898b876db3",
+            "eventID": "34f7f59e-d388-416b-9269-64a56a0e23f9",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760501124",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAE717198796A7",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:02:39.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:02:39.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "7c42f0fa-c65b-4574-88bd-6fea3bf7994c"
+            },
+            "requestID": "7c42f0fa-c65b-4574-88bd-6fea3bf7994c",
+            "eventID": "a1db633e-6c77-4012-8a4d-5095de952a63",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760481913",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:06:14.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:06:14.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RebootInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.6",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-d47bea9d"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "ae0a0088-b311-4cf7-bf3c-86e06f5d00bb"
+            },
+            "requestID": "ae0a0088-b311-4cf7-bf3c-86e06f5d00bb",
+            "eventID": "7d67e66f-bbb4-45da-9541-a4866ea54031",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760442722",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:09:12.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:09:12.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "18c1927e-1393-493c-8491-064af0285e98"
+            },
+            "requestID": "18c1927e-1393-493c-8491-064af0285e98",
+            "eventID": "bc3fc62b-e3c1-4e62-8855-4232b9f24ece",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760378517",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:09:32.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:09:32.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-b570e51b"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "318c5f25-da07-487a-b1d1-149c36f277b1"
+            },
+            "requestID": "318c5f25-da07-487a-b1d1-149c36f277b1",
+            "eventID": "3ae9f0e8-f3db-4305-8d39-863ffaf5b489",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760395442",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:11:34.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:11:34.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "TerminateInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-61b5634c"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "cd900816-c822-4812-a43a-8699e73953c5"
+            },
+            "requestID": "cd900816-c822-4812-a43a-8699e73953c5",
+            "eventID": "071cfb09-93e0-4ea0-8168-6533da88c77c",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760665492",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:11:53.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:11:53.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "TerminateInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-a15d43a9"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "f5121cfc-ce0c-450f-9622-b23c91b29ed2"
+            },
+            "requestID": "f5121cfc-ce0c-450f-9622-b23c91b29ed2",
+            "eventID": "d32a8312-c1a5-4487-84e0-80c7e02d04d9",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760468203",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:19:17.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:19:17.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.6",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-9f54c3c7"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "bfce7098-0d1d-4d79-b9a6-05847a414ee9"
+            },
+            "requestID": "bfce7098-0d1d-4d79-b9a6-05847a414ee9",
+            "eventID": "e8f7dc55-d921-400c-a4c4-b2b1a86af171",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760262316",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:22:55.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:22:55.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-b1bc0978"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "7123c44a-caaa-4249-af61-2368e0732ddf"
+            },
+            "requestID": "7123c44a-caaa-4249-af61-2368e0732ddf",
+            "eventID": "46f4d95e-1a9b-4a6d-a4a0-b3b9cca50d9c",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760884309",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:29:10.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:29:10.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-fe1d6063"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "0745fc24-446e-4b81-a140-f9b2638343be"
+            },
+            "requestID": "0745fc24-446e-4b81-a140-f9b2638343be",
+            "eventID": "32563275-d7ba-4fb1-a3e3-39224bb30f5c",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760587575",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA14BA2767D9A1",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:33:05.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:33:05.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "0fe86f2e-cf77-4500-b965-f79adff67d23"
+            },
+            "requestID": "0fe86f2e-cf77-4500-b965-f79adff67d23",
+            "eventID": "352e350a-0b77-4296-aa3f-9b6a7d919476",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760559381",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:37:22.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:37:22.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-b1bc0978"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "51d81352-ec41-405e-9048-d095597df2f1"
+            },
+            "requestID": "51d81352-ec41-405e-9048-d095597df2f1",
+            "eventID": "cc893b5d-9a02-4387-bcbd-aadf79b2d5f4",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760973349",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:47:50.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:47:50.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StartInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-2a480e33"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "2babe2a9-c43e-4e97-9ba3-2a24a286709c"
+            },
+            "requestID": "2babe2a9-c43e-4e97-9ba3-2a24a286709c",
+            "eventID": "04eb157b-5f8e-4de1-8c03-05017a510be8",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760662336",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:52:26.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:52:26.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.6",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "65d20fef-9c9b-428c-98cc-6bcb0280dede"
+            },
+            "requestID": "65d20fef-9c9b-428c-98cc-6bcb0280dede",
+            "eventID": "191c5f72-4eb4-4db2-ba5b-ba535681e8cf",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760363319",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T12:54:23.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T14:54:23.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-7837dacb"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "1ee2dd0f-cbe9-4988-aafe-d0f1436fe548"
+            },
+            "requestID": "1ee2dd0f-cbe9-4988-aafe-d0f1436fe548",
+            "eventID": "7a9ae19a-71aa-4ad8-a17f-37e7173ef673",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760660086",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:01:09.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:01:09.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-da9791ff"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "a82f70d3-7afd-4cce-b00e-592e678aacbd"
+            },
+            "requestID": "a82f70d3-7afd-4cce-b00e-592e678aacbd",
+            "eventID": "90845b26-034e-4bd6-951d-7dbdd7a9ebf5",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760918011",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:02:32.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:02:32.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-2a480e33"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "9964eac8-96fc-4dd9-91d9-960a4a058f01"
+            },
+            "requestID": "9964eac8-96fc-4dd9-91d9-960a4a058f01",
+            "eventID": "288fa4c9-1220-4b02-bbe5-a0fe847956c9",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760143860",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:08:46.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:08:46.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-3df7c1a2"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "d4ec140e-31ae-4ce9-b6b6-cb1ff0e1fa39"
+            },
+            "requestID": "d4ec140e-31ae-4ce9-b6b6-cb1ff0e1fa39",
+            "eventID": "2ca69de3-7fb3-4d08-8b5d-13795e2b255d",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760990844",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:09:30.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:09:30.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StartInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.6",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-d47bea9d"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "c0ab1571-1f44-416b-b07a-194ce5aef7e9"
+            },
+            "requestID": "c0ab1571-1f44-416b-b07a-194ce5aef7e9",
+            "eventID": "1b700dcf-3fe6-46ba-926f-a0e92dd1f014",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760705397",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:13:51.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:13:51.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-a15d43a9"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "a04b9c5c-d9af-4626-a669-de16e75a9a97"
+            },
+            "requestID": "a04b9c5c-d9af-4626-a669-de16e75a9a97",
+            "eventID": "4f1aff99-b9e1-4b21-a920-b8c0b9a240a9",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760922157",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:14:06.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:14:06.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.6",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-3df7c1a2"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "99010ae9-1bab-4c8d-b4b3-4ce115d2359a"
+            },
+            "requestID": "99010ae9-1bab-4c8d-b4b3-4ce115d2359a",
+            "eventID": "987910a1-3023-44e2-8a9f-a1045255c775",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760674553",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:14:11.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:14:11.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-3379e8b9"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "6c7584d6-9aab-4b26-a561-5c13e6984939"
+            },
+            "requestID": "6c7584d6-9aab-4b26-a561-5c13e6984939",
+            "eventID": "234a9f9f-c627-45ea-b66f-19603d95b1c3",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760364525",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA14BA2767D9A1",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:14:11.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:14:11.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "CreateTags",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "468a30e9-1566-4f2f-95a2-1af0f4cd5ac8"
+            },
+            "requestID": "468a30e9-1566-4f2f-95a2-1af0f4cd5ac8",
+            "eventID": "038643f9-4c32-4617-b4dd-a2034e2853a0",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760680099",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:17:16.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:17:16.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-7837dacb"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "19b700ab-827b-4681-98d0-1dbc22368392"
+            },
+            "requestID": "19b700ab-827b-4681-98d0-1dbc22368392",
+            "eventID": "38ac2e96-5525-4916-8d31-01aa7b02f9e6",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760358607",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:23:12.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:23:12.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "ba05f4de-8cfc-4bb1-b9d7-af5915ea4e76"
+            },
+            "requestID": "ba05f4de-8cfc-4bb1-b9d7-af5915ea4e76",
+            "eventID": "75ae870e-8ec3-4964-ba2e-bf04f9b24332",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760206851",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:23:45.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:23:45.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "39f4b522-a2b6-4ac4-b7e9-b6f9be3adc5f"
+            },
+            "requestID": "39f4b522-a2b6-4ac4-b7e9-b6f9be3adc5f",
+            "eventID": "3ef087ad-b05f-48c2-ac6c-c166b1e9901a",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760301158",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAE717198796A7",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:30:10.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:30:10.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StartInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-b1bc0978"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "5b662227-9af2-4191-ba0b-3d49ef87674e"
+            },
+            "requestID": "5b662227-9af2-4191-ba0b-3d49ef87674e",
+            "eventID": "72ce0a79-523a-4763-b997-ce00d92f7938",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760163556",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:31:38.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:31:38.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "TerminateInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-da9791ff"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "70f3f132-bd03-4bdb-8380-ac7d18a4ca72"
+            },
+            "requestID": "70f3f132-bd03-4bdb-8380-ac7d18a4ca72",
+            "eventID": "0c531c2a-46a3-4598-9b62-86827f8b32c0",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760920391",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:32:18.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:32:18.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.6",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "cbe40bf1-679c-424f-bc76-0153be90057f"
+            },
+            "requestID": "cbe40bf1-679c-424f-bc76-0153be90057f",
+            "eventID": "8968a1f7-b641-468d-beba-f6e9deedbc12",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760611945",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:35:58.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:35:58.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RebootInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-7eb82e89"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "08642678-9da3-4a65-9fe2-40f6da9a6d14"
+            },
+            "requestID": "08642678-9da3-4a65-9fe2-40f6da9a6d14",
+            "eventID": "8ce01a17-6334-48f7-8861-a75fb3d67c89",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760900581",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAE717198796A7",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:37:56.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:37:56.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "00d7ab50-9387-4278-91e3-8d9a410f858c"
+            },
+            "requestID": "00d7ab50-9387-4278-91e3-8d9a410f858c",
+            "eventID": "54bc3769-8ae0-45d0-905e-54bbf5383087",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760587455",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:44:58.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:44:58.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RebootInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-fe1d6063"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "937c7384-82a7-411a-b4c7-f10725cdfc94"
+            },
+            "requestID": "937c7384-82a7-411a-b4c7-f10725cdfc94",
+            "eventID": "f4794f74-df16-4127-8429-e375a3d86b67",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760503906",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:45:27.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:45:27.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-7eb82e89"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "86008c89-39ae-4e50-9a3b-33fb73e9f56d"
+            },
+            "requestID": "86008c89-39ae-4e50-9a3b-33fb73e9f56d",
+            "eventID": "fd12aba2-31be-4bf4-ba53-74f60af839ba",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760397571",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:48:36.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:48:36.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StartInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-b570e51b"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "392a2fb1-fa97-4e7a-a626-6416926eeb39"
+            },
+            "requestID": "392a2fb1-fa97-4e7a-a626-6416926eeb39",
+            "eventID": "4d2163a7-f4e6-4a1e-821c-3f0175676727",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760197793",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:49:08.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:49:08.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "c2529c5e-6feb-4350-9a15-475a2d8f469f"
+            },
+            "requestID": "c2529c5e-6feb-4350-9a15-475a2d8f469f",
+            "eventID": "dd3dee4c-d89c-4bc6-9e2e-e9908d92d35f",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760903013",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA14BA2767D9A1",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:52:55.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:52:55.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "CreateTags",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "e1046989-b3d0-480a-afae-663f6d1e0bc6"
+            },
+            "requestID": "e1046989-b3d0-480a-afae-663f6d1e0bc6",
+            "eventID": "d3e68b92-d0bf-4e28-bb51-74e1c22d0354",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760624902",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:54:55.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:54:55.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-b570e51b"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "c6d55a6d-f075-41a2-aa89-c07ebd5281de"
+            },
+            "requestID": "c6d55a6d-f075-41a2-aa89-c07ebd5281de",
+            "eventID": "721d4d6b-1475-4614-a336-5e57e5c778ff",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760891937",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T13:56:25.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T15:56:25.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "CreateTags",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "b92f9346-8944-411b-a6eb-3677219834f7"
+            },
+            "requestID": "b92f9346-8944-411b-a6eb-3677219834f7",
+            "eventID": "d8bec16c-3298-4aa9-a8ad-21c2e99ca3e9",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760513160",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:02:23.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:02:23.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-3554a3cd"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "714995d9-e179-44af-9494-792a0e74e94f"
+            },
+            "requestID": "714995d9-e179-44af-9494-792a0e74e94f",
+            "eventID": "c271ea4b-6894-4d77-ba26-43c682611757",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760335113",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:03:59.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:03:59.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RebootInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-2a480e33"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "18055a4c-d9cf-4161-bf59-ea40e02516de"
+            },
+            "requestID": "18055a4c-d9cf-4161-bf59-ea40e02516de",
+            "eventID": "c8d749af-240f-47f5-bda5-fce011321f60",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760466643",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:04:11.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:04:11.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "8e2c9406-f770-44e5-a5f6-467ac4a124b2"
+            },
+            "requestID": "8e2c9406-f770-44e5-a5f6-467ac4a124b2",
+            "eventID": "12ff89cf-b29e-4ac9-824e-090b35ddf605",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760859359",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:12:21.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:12:21.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "208877da-c5c7-41bf-939c-0df2e7a3ecda"
+            },
+            "requestID": "208877da-c5c7-41bf-939c-0df2e7a3ecda",
+            "eventID": "fee88da0-6428-4861-9ff3-9ddc0914453c",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760841666",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:14:50.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:14:50.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StartInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-b1bc0978"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "4def7e14-d66e-458b-bb21-0eebb5976bc0"
+            },
+            "requestID": "4def7e14-d66e-458b-bb21-0eebb5976bc0",
+            "eventID": "899ae083-6b8c-4176-8855-1529cdab7f66",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760260263",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:24:23.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:24:23.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "TerminateInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.6",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-b8778d3b"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "424161c1-7b7d-4479-9dba-9f953e323a8b"
+            },
+            "requestID": "424161c1-7b7d-4479-9dba-9f953e323a8b",
+            "eventID": "b9ef0620-c3b0-4631-8ac8-575e210c4641",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760214975",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:25:24.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:25:24.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "4bf8baca-bf1d-43d8-aeaa-86f8554e78bc"
+            },
+            "requestID": "4bf8baca-bf1d-43d8-aeaa-86f8554e78bc",
+            "eventID": "83ebaa7f-d979-46e7-9ae0-c0730ef5741d",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760989545",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:30:00.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:30:00.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "720f43c5-fef9-4cf3-8f70-e6fe37f5602c"
+            },
+            "requestID": "720f43c5-fef9-4cf3-8f70-e6fe37f5602c",
+            "eventID": "2cadb6b7-7549-4a1f-8c06-c688801d9086",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760676510",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:38:03.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:38:03.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "c475dba7-2f27-4163-994d-1711f729e56d"
+            },
+            "requestID": "c475dba7-2f27-4163-994d-1711f729e56d",
+            "eventID": "77c7cde9-1aec-45a0-a68b-728a62aee111",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760373903",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAE717198796A7",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:39:58.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:39:58.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-3379e8b9"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "17f2deef-5694-43f6-8efb-2ec098de3e29"
+            },
+            "requestID": "17f2deef-5694-43f6-8efb-2ec098de3e29",
+            "eventID": "89c52c74-273d-463a-a3dd-4468cd7b61a7",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760672092",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:53:27.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:53:27.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "b257466a-02e2-4ada-ad73-b655dec16667"
+            },
+            "requestID": "b257466a-02e2-4ada-ad73-b655dec16667",
+            "eventID": "5db20ba8-007b-466d-8a09-f2d0ffc7619c",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760331148",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:53:38.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:53:38.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RebootInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-a15d43a9"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "0df64fe8-1495-4294-93e7-7e5eb311a34b"
+            },
+            "requestID": "0df64fe8-1495-4294-93e7-7e5eb311a34b",
+            "eventID": "bccf80e8-2df4-4d20-9925-07b3f2305366",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760275939",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:55:08.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:55:08.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StartInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-fe1d6063"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "9291893c-afac-42a5-8974-e13fbf33d043"
+            },
+            "requestID": "9291893c-afac-42a5-8974-e13fbf33d043",
+            "eventID": "11cd1038-6938-4a37-9f02-be5180dc01bb",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760539589",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T14:58:15.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T16:58:15.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StopInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-2a480e33"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "36f6368d-f054-4a98-b94b-ab2ae9ede492"
+            },
+            "requestID": "36f6368d-f054-4a98-b94b-ab2ae9ede492",
+            "eventID": "826d79cc-7708-41d5-a75e-c4c89eadee06",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760890075",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:01:32.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:01:32.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StartInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-3df7c1a2"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "81938880-3313-4560-bd5b-f3d99610a75f"
+            },
+            "requestID": "81938880-3313-4560-bd5b-f3d99610a75f",
+            "eventID": "00e4d5f6-8339-4560-bc79-9a477190774b",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760462479",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA14BA2767D9A1",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:04:12.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:04:12.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "615fe590-611a-416b-b983-0f7f1dfc4e14"
+            },
+            "requestID": "615fe590-611a-416b-b983-0f7f1dfc4e14",
+            "eventID": "ec8e5ef9-5b4b-4624-8954-110729ae42f7",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760329974",
+                "arn": "arn:aws:iam::834672015016:user/Saanvi",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC772CFFB0222",
+                "userName": "Saanvi",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:06:23.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:06:23.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "TerminateInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-bc7b6a4e"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "c8ed84e3-1781-4a84-bd56-713f5d7236da"
+            },
+            "requestID": "c8ed84e3-1781-4a84-bd56-713f5d7236da",
+            "eventID": "0bcc8ef4-65c6-44da-bd5b-d864a48ebcbc",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760340062",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:08:30.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:08:30.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "8168ad5e-5cd3-47c0-8e57-e6caae218050"
+            },
+            "requestID": "8168ad5e-5cd3-47c0-8e57-e6caae218050",
+            "eventID": "f3cc5392-dedb-4c92-b73c-543b9724c98c",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760895667",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAE717198796A7",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:08:57.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:08:57.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "CreateTags",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "0ff93315-571c-4ede-88ec-05df5fb7870c"
+            },
+            "requestID": "0ff93315-571c-4ede-88ec-05df5fb7870c",
+            "eventID": "bb2ff329-17e2-4d32-8562-167e4d66774b",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760971084",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAE717198796A7",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:10:42.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:10:42.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "f865c50d-eb2d-480b-97b9-c2a4bfba2853"
+            },
+            "requestID": "f865c50d-eb2d-480b-97b9-c2a4bfba2853",
+            "eventID": "6498a01c-75f4-48d8-89db-d61b14b209af",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760464069",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:15:02.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:15:02.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "CreateTags",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.6",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "7a9b64ad-6420-4f5a-b076-266993153526"
+            },
+            "requestID": "7a9b64ad-6420-4f5a-b076-266993153526",
+            "eventID": "a90f1aa7-b671-4851-a32c-02bacd0c5d78",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760662275",
+                "arn": "arn:aws:iam::834672015016:user/Lewis",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA14BA2767D9A1",
+                "userName": "Lewis",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:16:50.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:16:50.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "CreateTags",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "54.240.196.186",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CloudShell",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "e4c7b22d-c3ea-4074-8f54-47648e640efa"
+            },
+            "requestID": "e4c7b22d-c3ea-4074-8f54-47648e640efa",
+            "eventID": "315e78d3-02e3-485e-9b47-2892460a6019",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760795613",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:21:11.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:21:11.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "f41e337a-c6e1-412b-90ed-c3b62c145a58"
+            },
+            "requestID": "f41e337a-c6e1-412b-90ed-c3b62c145a58",
+            "eventID": "cbde06ff-7219-4b5c-84e9-edc92fa8878b",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760266889",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:21:43.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:21:43.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "StartInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-fe1d6063"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "548e12a6-9c97-4612-a2dc-c0ed83ba7f60"
+            },
+            "requestID": "548e12a6-9c97-4612-a2dc-c0ed83ba7f60",
+            "eventID": "beac56c6-aff6-475b-a3d3-8eb78404f3dd",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760270395",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:26:05.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:26:05.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "RunInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-d47bea9d"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "5649ac63-ec87-4521-807c-915d25a8e003"
+            },
+            "requestID": "5649ac63-ec87-4521-807c-915d25a8e003",
+            "eventID": "79b55e2f-c608-44d4-b173-bbe718d2decd",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760801978",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:26:27.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:26:27.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "0211ea08-f30c-4aea-9b3f-7463c86bc82b"
+            },
+            "requestID": "0211ea08-f30c-4aea-9b3f-7463c86bc82b",
+            "eventID": "4d012bbd-9798-4cc5-8040-95693d6c1978",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760848206",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:29:25.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:29:25.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "a664fa3e-8924-4488-8b49-9cb124e3174d"
+            },
+            "requestID": "a664fa3e-8924-4488-8b49-9cb124e3174d",
+            "eventID": "3cffacdf-f51b-4c6f-999e-e0064d49f202",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760725380",
+                "arn": "arn:aws:iam::834672015016:user/Nikki",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIA8111D4777E0B",
+                "userName": "Nikki",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:29:48.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:29:48.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "CreateTags",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.42",
+            "userAgent": "aws-cli/2.10.0 Python/3.8 Windows/10 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "a2373cdb-1b8a-4c04-b947-858749377c27"
+            },
+            "requestID": "a2373cdb-1b8a-4c04-b947-858749377c27",
+            "eventID": "aca6f7f1-1234-4f0f-a3ac-819223012204",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760618392",
+                "arn": "arn:aws:iam::834672015016:user/Arnav",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAC497FD699E60",
+                "userName": "Arnav",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:31:04.116926Z",
+                        "mfaAuthenticated": "false"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:31:04.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "DescribeInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "198.51.100.88",
+            "userAgent": "aws-cli/2.13.5 Python/3.11.4 Linux exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "eeaad248-a37f-45c4-9c04-5ed1454007ae"
+            },
+            "requestID": "eeaad248-a37f-45c4-9c04-5ed1454007ae",
+            "eventID": "7462018e-702e-4fe2-b569-1265ecc500fe",
+            "readOnly": true,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760309044",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:43:04.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:43:04.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "CreateTags",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {},
+            "responseElements": {
+                "requestId": "ab63e9dc-8ec8-46a1-afb4-0f6fbe64642c"
+            },
+            "requestID": "ab63e9dc-8ec8-46a1-afb4-0f6fbe64642c",
+            "eventID": "2a3305b8-52a6-491a-95f0-4fcfa25ac125",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        },
+        {
+            "eventVersion": "1.08",
+            "userIdentity": {
+                "type": "IAMUser",
+                "principalId": "000760329471",
+                "arn": "arn:aws:iam::834672015016:user/Mateo",
+                "accountId": "834672015016",
+                "accessKeyId": "AKIAEE538CDEBDA1",
+                "userName": "Mateo",
+                "sessionContext": {
+                    "sessionIssuer": {},
+                    "webIdFederationData": {},
+                    "attributes": {
+                        "creationDate": "2025-12-26T15:45:25.116926Z",
+                        "mfaAuthenticated": "true"
+                    }
+                }
+            },
+            "eventTime": "2025-12-26T17:45:25.116926Z",
+            "eventSource": "ec2.amazonaws.com",
+            "eventName": "TerminateInstances",
+            "awsRegion": "us-east-1",
+            "sourceIPAddress": "203.0.113.5",
+            "userAgent": "aws-cli/2.15.0 Python/3.11.8 Darwin/23.0.0 exec-env/CLI",
+            "requestParameters": {
+                "instancesSet": {
+                    "items": [
+                        {
+                            "instanceId": "i-7837dacb"
+                        }
+                    ]
+                }
+            },
+            "responseElements": {
+                "requestId": "01517bd0-1cb2-46ea-b7aa-0dc2e73b5a72"
+            },
+            "requestID": "01517bd0-1cb2-46ea-b7aa-0dc2e73b5a72",
+            "eventID": "620f01ee-6858-4a91-8902-c00b0ee877c0",
+            "readOnly": false,
+            "eventType": "AwsApiCall",
+            "managementEvent": true,
+            "recipientAccountId": "834672015016",
+            "eventCategory": "Management",
+            "tlsDetails": {
+                "tlsVersion": "TLSv1.2",
+                "cipherSuite": "ECDHE-RSA-AES128-GCM-SHA256",
+                "clientProvidedHostHeader": "ec2.us-east-1.amazonaws.com"
+            },
+            "sessionCredentialFromConsole": "true"
+        }
+    ]
+}

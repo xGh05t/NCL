@@ -1,0 +1,1001 @@
+timestamp,merchant,mcc,amount
+2026-03-05 11:01:20,Martin Ltd,3628,12.91
+2026-03-05 13:30:58,Stone Ltd,3733,28.95
+2026-03-03 18:11:50,Moore Inc,8062,15.67
+2026-03-05 00:56:05,White-Wilson,5931,68.32
+2026-03-03 22:13:05,Carroll Ltd,3532,10.52
+2026-03-02 13:57:23,Jones-Smith,3234,5.11
+2026-03-03 01:14:08,Lopez Howard and Solis,5735,23.43
+2026-03-06 00:40:39,Welch-Austin,3431,61.0
+2026-03-01 22:34:53,Ortiz Group,3548,21.49
+2026-03-04 20:19:55,Hernandez-Stone,3639,70.73
+2026-03-03 08:12:14,Jones Ltd,3229,23.6
+2026-03-04 00:59:33,Jimenez-Velazquez,3577,29.26
+2026-03-02 09:57:07,Gonzalez Group,1750,76.36
+2026-03-03 09:26:00,Rice Ltd,7217,70.42
+2026-03-06 07:29:30,Nelson-Keith,3090,29.23
+2026-03-06 08:01:32,Greer-Taylor,8021,95.81
+2026-03-04 12:43:39,Ruiz Group,3086,12.02
+2026-03-04 14:26:54,Gonzalez-Rodriguez,3170,11.48
+2026-03-03 05:48:30,Jackson Ltd,3098,61.17
+2026-03-04 14:17:07,Riley-Vasquez,3801,6.26
+2026-03-05 10:22:42,Avila Mason and Ryan,3296,54.55
+2026-03-04 20:30:13,Cooper-Jackson,3165,9.72
+2026-03-03 18:32:56,Dean Group,3038,83.28
+2026-03-01 02:53:47,Calhoun-Taylor,3607,88.77
+2026-03-01 10:05:56,Davis Roth and Miller,3132,58.58
+2026-03-02 06:11:24,Short PLC,3695,8.82
+2026-03-01 07:09:19,Beard and Sons,3651,24.33
+2026-03-01 18:45:23,Mejia Ramirez and Smith,3034,98.55
+2026-03-05 05:14:45,Moore-Moody,8651,86.92
+2026-03-01 21:23:56,Mann Group,3170,29.24
+2026-03-06 21:04:48,Crawford-Haynes,3624,83.74
+2026-03-04 23:22:30,Jackson Perry and Wilson,7261,38.28
+2026-03-03 23:55:14,Hess Inc,7993,67.68
+2026-03-06 19:23:03,Dodson Haas and Walker,3692,93.79
+2026-03-01 06:48:14,Sanchez Mosley and Harrison,3637,9.0
+2026-03-03 07:00:14,Lee-Smith,3624,18.77
+2026-03-04 22:09:25,Rose Castaneda and Bennett,3720,25.99
+2026-03-03 18:48:06,Vazquez-Sutton,3299,39.19
+2026-03-02 05:49:31,Bartlett Powell and Peterson,3629,69.44
+2026-03-06 11:43:01,Green Green and Vasquez,8043,69.09
+2026-03-05 09:36:21,Miller-Evans,3761,78.05
+2026-03-02 04:11:36,Armstrong Lopez and Roberts,8249,82.54
+2026-03-02 22:46:18,Watson-Long,3799,32.91
+2026-03-06 20:17:35,Strickland Ltd,3012,8.49
+2026-03-04 22:01:47,Floyd Mclean and Fitzgerald,3554,87.88
+2026-03-03 10:28:15,Sloan Haley and Martinez,3060,22.84
+2026-03-04 08:09:11,Malone Leon and Rasmussen,3423,40.77
+2026-03-02 16:16:29,Hurst-Potter,3632,46.97
+2026-03-05 11:53:11,Williams Group,3009,15.68
+2026-03-02 19:47:06,Thompson Christensen and Reynolds,3736,57.01
+2026-03-03 13:16:30,Bryant-Garcia,3007,75.21
+2026-03-03 16:02:50,Andrews-Young,3241,89.99
+2026-03-06 12:21:38,Flynn-Wilson,3193,37.48
+2026-03-02 22:40:39,Morton Hutchinson and Cooper,5999,51.93
+2026-03-03 02:04:15,Hernandez PLC,5732,76.07
+2026-03-03 15:30:05,Ellison Inc,5944,16.98
+2026-03-04 12:22:49,Gutierrez-Combs,7217,79.62
+2026-03-01 18:53:23,Jefferson Paul and Ramirez,3234,60.45
+2026-03-02 02:28:34,Lawson-Livingston,3176,39.4
+2026-03-05 01:15:09,Shaffer Daniels and Butler,3357,53.85
+2026-03-04 17:30:59,Peterson Ltd,3540,86.36
+2026-03-06 13:00:37,Murray Meyer and Castillo,4011,68.67
+2026-03-03 21:04:50,Rhodes Daniels and Snyder,5949,68.81
+2026-03-06 00:45:34,Blankenship Simmons and Key,3523,75.59
+2026-03-03 07:14:04,Heath White and French,3762,64.81
+2026-03-02 22:50:04,Nunez-Allen,5946,30.76
+2026-03-01 18:14:47,Martin Group,7211,46.46
+2026-03-03 23:42:07,Oneill-Callahan,3713,87.83
+2026-03-02 06:07:16,Kidd PLC,3007,97.25
+2026-03-06 22:12:37,Bradley Inc,3754,19.51
+2026-03-02 15:11:05,Tucker Inc,5940,87.31
+2026-03-02 21:26:45,Leon Wallace and Williams,3043,84.48
+2026-03-04 22:12:00,Foster Group,3433,61.68
+2026-03-04 12:37:02,Stanley Harmon and Lewis,6760,38.64
+2026-03-02 07:10:13,King Mills and Smith,7230,54.86
+2026-03-01 07:07:34,Clark Kramer and Marshall,3772,92.4
+2026-03-04 23:47:54,Cole-Madden,0742,60.7
+2026-03-04 07:56:47,Kane Mendez and Jones,3394,3.91
+2026-03-05 08:47:11,Thompson-Smith,3133,88.11
+2026-03-03 19:02:58,Morgan-Vega,3826,81.06
+2026-03-02 16:54:17,Jenkins-Quinn,8999,7.68
+2026-03-05 04:12:37,Gonzalez-Gonzalez,3554,94.8
+2026-03-01 15:46:40,Munoz Group,5699,73.73
+2026-03-05 17:36:34,Cook Ltd,3810,8.78
+2026-03-06 03:37:39,Russell Ltd,3752,54.21
+2026-03-06 10:24:37,Adams Nichols and Hansen,5973,14.58
+2026-03-06 04:41:31,Perez-Jordan,3368,94.79
+2026-03-04 22:06:39,Coffey Inc,7277,27.98
+2026-03-05 07:34:45,Hart Thomas and Reeves,3595,43.47
+2026-03-03 00:27:32,Frey Group,7995,93.03
+2026-03-03 23:06:39,Price Rodriguez and Dixon,3747,73.53
+2026-03-05 02:00:38,Hodge Group,7802,71.87
+2026-03-01 23:45:38,Navarro-Jenkins,3193,99.52
+2026-03-05 22:48:33,Huber-Anthony,3639,38.6
+2026-03-06 17:23:39,Mitchell Russell and Cook,3503,46.25
+2026-03-01 12:46:33,Armstrong West and Williams,9402,24.02
+2026-03-04 21:11:03,Ward Walker and Williams,3088,4.06
+2026-03-06 08:05:09,Chang Group,3541,24.55
+2026-03-01 15:57:08,Smith Brooks and Peters,8044,2.7
+2026-03-03 02:49:04,Perez Kennedy and Dean,3698,63.85
+2026-03-02 14:52:57,Anderson Brady and Smith,8249,8.61
+2026-03-04 06:25:21,Hawkins-Robinson,5039,86.24
+2026-03-02 08:07:07,Blair Group,5561,52.39
+2026-03-03 13:54:45,Clark Hoover and Huerta,3023,67.56
+2026-03-05 08:15:07,Gregory-White,8011,54.84
+2026-03-06 08:24:02,Allen-Williams,3714,93.68
+2026-03-01 11:25:13,Baker-Frye,3558,58.47
+2026-03-05 23:17:21,Wilson-Wolf,9222,78.89
+2026-03-05 10:42:57,Cooper Group,3801,41.89
+2026-03-05 06:59:43,Serrano Inc,5811,11.5
+2026-03-02 02:29:12,Jackson-Harris,3245,36.72
+2026-03-04 02:28:52,Turner-Villarreal,3217,47.77
+2026-03-01 17:54:23,Phillips LLC,3720,7.31
+2026-03-06 15:00:29,Mcdonald Rodriguez and Garza,3643,98.45
+2026-03-06 14:53:03,Mitchell-Leon,5816,7.94
+2026-03-05 07:02:19,Mccarty Evans and Campbell,3719,35.25
+2026-03-06 16:33:15,Carter-Lewis,5943,26.37
+2026-03-04 17:31:08,Chan Estrada and Fields,7538,54.56
+2026-03-06 02:09:46,Davis LLC,6051,43.34
+2026-03-04 22:37:52,Hill-Rosario,3023,47.34
+2026-03-06 01:47:43,Williams PLC,5621,45.43
+2026-03-02 08:40:38,Cruz-Walsh,3537,11.6
+2026-03-02 18:40:49,Jacobs Group,3641,99.93
+2026-03-06 09:12:05,Osborne PLC,3831,3.45
+2026-03-04 19:43:40,Gray-Thompson,5735,92.78
+2026-03-05 12:48:11,Moody Kelley and Miller,8743,18.3
+2026-03-01 06:03:32,Smith Ryan and Gray,3390,49.17
+2026-03-04 22:27:00,Santiago-Patton,3197,90.44
+2026-03-03 02:30:24,Holden Group,7276,39.14
+2026-03-06 11:04:32,Mcguire Ramsey and Bond,3182,27.99
+2026-03-02 17:29:17,Ray Group,3777,78.94
+2026-03-02 01:27:44,Bell LLC,3030,43.45
+2026-03-05 05:05:12,Bell-Moreno,3722,99.55
+2026-03-05 03:15:21,Johnson-Schroeder,3543,66.86
+2026-03-06 19:53:36,Hawkins-Brown,3391,17.17
+2026-03-03 20:04:44,Allen and Sons,3041,23.33
+2026-03-02 11:38:54,Macy's,5311,74.1
+2026-03-04 05:19:48,Trader Joe's,5411,32.73
+2026-03-05 14:36:03,Clay Ltd,5231,59.25
+2026-03-06 15:15:29,Pham Group,3428,92.1
+2026-03-03 10:25:36,Patel Ltd,3517,17.43
+2026-03-02 00:33:23,Duncan-Carter,3434,9.85
+2026-03-06 00:04:44,Hall Williams and Townsend,7523,8.72
+2026-03-05 20:17:47,Cole Ltd,5533,68.17
+2026-03-05 05:48:15,Cruz PLC,8675,41.57
+2026-03-06 12:52:03,Barnett LLC,3557,26.13
+2026-03-01 16:09:57,Hill-Bell,3582,5.89
+2026-03-03 04:52:49,Olson Moore and Long,5681,43.08
+2026-03-01 14:37:36,Townsend Inc,3571,57.39
+2026-03-03 02:39:50,Woodard-Meadows,3061,93.6
+2026-03-06 07:43:43,Douglas and Sons,7911,67.63
+2026-03-05 21:54:24,Francis Inc,3059,25.39
+2026-03-06 16:12:30,Edwards Carrillo and Logan,3188,14.83
+2026-03-02 04:36:57,Gibson Ltd,3634,31.4
+2026-03-02 18:25:29,Taylor Alexander and Lynn,3061,93.04
+2026-03-05 01:58:56,Lynch Group,5592,2.91
+2026-03-04 07:57:25,Brown and Sons,3610,99.85
+2026-03-02 16:05:34,Freeman LLC,5912,9.18
+2026-03-05 08:21:21,Weaver Roberts and Ibarra,7999,51.58
+2026-03-05 01:55:03,Moore Ltd,5993,93.46
+2026-03-01 15:52:14,Le Grant and Wallace,5542,88.17
+2026-03-01 15:58:02,Jacobs and Sons,3145,29.93
+2026-03-04 00:37:49,Johnson and Sons,3254,83.71
+2026-03-02 13:23:54,Burnett Price and Olson,3694,31.65
+2026-03-03 19:36:27,Williams Inc,3801,66.09
+2026-03-06 07:24:14,Black LLC,1771,67.45
+2026-03-04 17:35:34,Smith Group,3541,31.34
+2026-03-01 22:55:15,Villarreal LLC,3653,12.15
+2026-03-06 00:51:19,Chase LLC,5995,27.92
+2026-03-06 16:53:01,Lee Ltd,5941,74.76
+2026-03-01 15:10:19,Williams Perez and Yates,7033,28.69
+2026-03-01 01:36:13,Williams-Stuart,3593,22.64
+2026-03-01 21:03:00,Murphy-Bishop,3097,21.95
+2026-03-05 08:28:35,Henry-Wright,3623,85.59
+2026-03-02 02:49:26,Phillips Lyons and Montgomery,3431,49.88
+2026-03-06 20:43:41,Wilson-Watkins,5251,11.05
+2026-03-01 00:47:14,Peterson Miller and Stewart,3235,83.28
+2026-03-05 22:47:44,Graham Wilson and Coffey,5192,2.35
+2026-03-05 11:43:21,Brown LLC,3764,14.82
+2026-03-01 13:57:30,Ramirez PLC,3006,17.84
+2026-03-01 05:47:21,Wong Elliott and Rodriguez,3261,56.06
+2026-03-06 23:06:00,Ferguson Group,3240,56.97
+2026-03-06 06:32:57,King-Lewis,5946,9.37
+2026-03-05 07:34:28,Phillips-Morales,3681,90.59
+2026-03-03 02:35:58,Sanders Inc,3532,5.53
+2026-03-05 00:02:26,Howe-Garcia,3145,59.09
+2026-03-01 16:53:42,Coleman Inc,6536,44.12
+2026-03-02 23:42:37,Johnson-Rosales,5131,32.21
+2026-03-04 13:57:01,Cook Group,3790,97.28
+2026-03-01 06:17:39,Sparks Farrell and Lara,5099,90.09
+2026-03-01 07:19:42,Walker Ramirez and Harrison,7994,68.84
+2026-03-02 10:20:11,Walker and Sons,3656,12.07
+2026-03-01 21:27:55,Stephenson Allen and Webb,3773,56.87
+2026-03-01 04:43:08,Schmidt-Montes,3212,97.44
+2026-03-01 18:51:15,Harris LLC,3741,17.15
+2026-03-01 17:04:17,Hernandez PLC,8743,86.73
+2026-03-05 11:07:15,Bowman Malone and Ayala,3794,81.46
+2026-03-01 11:04:10,Moreno Ltd,3219,4.43
+2026-03-05 08:19:28,Murphy-Gutierrez,3728,92.6
+2026-03-04 14:18:58,Ortiz Meyers and Gomez,3776,93.22
+2026-03-02 02:24:56,Murphy Smith and Doyle,3796,67.65
+2026-03-02 10:57:14,Walker PLC,3726,81.45
+2026-03-04 09:19:43,Vang White and Nelson,3011,17.6
+2026-03-06 09:19:43,Cowan-Robinson,3692,12.59
+2026-03-04 08:34:22,Nelson Inc,5094,86.14
+2026-03-03 07:12:13,Long-Prince,8050,21.56
+2026-03-03 03:38:36,Sparks Ferguson and Wolf,3297,36.27
+2026-03-05 06:12:23,Wilson Welch and Woods,3815,79.94
+2026-03-03 15:34:56,Silva PLC,8244,23.85
+2026-03-01 23:30:34,Gibson Harrison and Sparks,3649,20.93
+2026-03-03 10:15:54,Horn-Hill,3077,29.3
+2026-03-02 21:12:44,Nunez-Garcia,5551,96.76
+2026-03-04 22:09:09,Sims Ltd,3023,36.41
+2026-03-03 12:44:00,Ferguson Doyle and Walker,3435,41.17
+2026-03-04 20:45:14,Carter PLC,3523,34.45
+2026-03-03 07:02:55,Cole and Sons,4821,13.3
+2026-03-04 03:23:07,Lawson Welch and Mora,3005,19.5
+2026-03-01 07:41:12,Klein Inc,3009,5.75
+2026-03-06 19:06:53,Palmer PLC,3584,44.59
+2026-03-04 08:08:23,French-Holden,3720,79.07
+2026-03-01 23:32:13,Moore-Taylor,3252,61.41
+2026-03-02 12:16:44,Saunders Ltd,3437,13.33
+2026-03-06 06:42:09,Roberts Cooper and Clark,3564,20.63
+2026-03-05 00:37:45,Martin-Mcdaniel,5192,71.46
+2026-03-02 02:37:46,Thomas-Roth,0763,52.95
+2026-03-02 09:58:28,Hughes Brown and Davis,3800,54.77
+2026-03-02 22:22:48,Davis Arnold and Brown,3710,94.15
+2026-03-02 15:56:22,Rodriguez-Bennett,3728,67.72
+2026-03-03 01:20:32,Matthews and Sons,3135,44.27
+2026-03-01 22:35:31,Clark-Thomas,3654,92.24
+2026-03-02 14:59:53,Perez Williams and Michael,3612,32.76
+2026-03-03 15:06:47,Fleming Inc,5971,72.54
+2026-03-02 12:01:24,Moore-Morrison,3045,51.7
+2026-03-06 10:53:59,Diaz Walton and Chase,3656,42.02
+2026-03-05 02:57:19,Williams-Walsh,3203,70.33
+2026-03-03 16:00:07,Coffey Group,3541,14.47
+2026-03-06 17:54:47,Carroll-Bond,3231,67.16
+2026-03-02 05:59:39,Hansen Inc,3167,68.38
+2026-03-02 05:29:33,Moran-Davenport,7332,62.32
+2026-03-03 07:51:23,Horne Group,3046,41.8
+2026-03-05 00:18:10,Butler Fowler and Martin,3828,2.04
+2026-03-01 21:13:50,Perez LLC,3031,22.6
+2026-03-06 13:05:41,Scott Larson and Jimenez,3779,58.84
+2026-03-05 09:35:05,Harper-Floyd,3644,33.58
+2026-03-01 02:58:25,Turner-Brown,3261,45.33
+2026-03-03 16:27:00,Carter Davis and Sherman,7999,52.1
+2026-03-04 09:45:57,Rogers Inc,3787,90.32
+2026-03-04 14:56:54,Riggs-Perkins,3790,74.12
+2026-03-05 05:42:03,Morales Colon and Fields,3648,10.31
+2026-03-04 16:45:49,Ortiz Howard and Williams,3501,67.06
+2026-03-04 15:00:21,King Group,3608,34.85
+2026-03-02 00:21:59,Hall Inc,3813,95.3
+2026-03-01 05:06:21,Holmes LLC,8675,67.93
+2026-03-04 23:26:41,Peters Montoya and Pena,8111,81.04
+2026-03-02 14:19:24,Cervantes-Nicholson,6535,4.39
+2026-03-01 20:39:27,Wu-Moore,9311,98.43
+2026-03-05 18:12:45,Dillon Mills and Johnson,3599,85.27
+2026-03-06 18:18:09,Long LLC,5592,46.63
+2026-03-04 02:10:17,Newman-Weber,3618,58.42
+2026-03-01 09:10:37,Snyder PLC,3709,70.24
+2026-03-06 04:32:49,Nichols-Watkins,3409,41.17
+2026-03-06 00:56:32,Morrow Pacheco and Turner,6536,66.29
+2026-03-05 13:15:54,Underwood Group,1731,89.48
+2026-03-05 20:03:17,Graham Campbell and Garrett,3763,88.78
+2026-03-05 09:34:36,Campbell Dickson and Bell,3772,43.66
+2026-03-05 19:40:52,Johnson Ruiz and Alvarez,7338,80.8
+2026-03-05 07:54:54,Riley-Villegas,3686,52.76
+2026-03-02 16:33:24,Mclaughlin-Owen,5231,56.63
+2026-03-02 01:22:41,Archer Gonzalez and Armstrong,5967,46.73
+2026-03-06 22:44:46,Les Enfants,3795,67.42
+2026-03-03 12:58:45,Ross Group,3546,60.35
+2026-03-02 10:20:52,Stewart-Rodriguez,3747,89.36
+2026-03-05 01:53:09,Wilcox Rodriguez and Shaw,3601,81.87
+2026-03-02 01:38:01,Weaver-Smith,3430,43.82
+2026-03-05 00:09:49,Krause Garrison and Martinez,3535,45.7
+2026-03-02 01:27:20,Phillips Inc,7216,74.88
+2026-03-05 15:16:26,Hoffman Inc,3368,46.11
+2026-03-06 21:29:58,Stein-Leonard,3743,26.23
+2026-03-04 13:34:24,Garcia LLC,3626,29.18
+2026-03-05 15:08:51,Curtis PLC,3771,53.09
+2026-03-01 19:28:42,Cook Group,3615,25.45
+2026-03-06 01:42:09,Perry Ltd,3259,9.59
+2026-03-04 18:44:28,Bass Cantrell and Williams,3030,24.98
+2026-03-04 16:09:15,Daniels May and Nichols,3085,33.33
+2026-03-02 06:05:41,Miller Group,3527,9.9
+2026-03-04 06:40:55,Smith Armstrong and Avila,6539,24.66
+2026-03-04 21:48:19,Baker Collins and Rojas,3684,16.97
+2026-03-04 06:37:22,Patterson Ward and Jones,8011,8.29
+2026-03-03 13:17:42,Castro and Sons,3213,34.43
+2026-03-04 11:29:29,Morris Inc,3354,42.75
+2026-03-01 18:47:44,Johnson-Kent,7933,83.62
+2026-03-03 05:49:14,Hayden-Cruz,3181,90.67
+2026-03-04 07:37:55,Ward and Sons,3572,94.71
+2026-03-05 01:26:00,Higgins-Cruz,4511,85.96
+2026-03-05 04:12:29,Fleming PLC,3758,58.42
+2026-03-02 02:54:36,Shelton Carrillo and Clark,3374,2.58
+2026-03-06 15:43:04,Alexander-Fernandez,3112,31.26
+2026-03-03 07:50:04,Johnson-Garner,3182,85.64
+2026-03-02 17:18:24,Williams and Sons,3830,43.06
+2026-03-02 20:55:09,Jimenez-Baker,3739,73.99
+2026-03-05 19:07:37,Turner-Garcia,3794,61.12
+2026-03-02 08:27:57,Day Friedman and Carr,8044,49.85
+2026-03-05 13:58:54,Thomas-Garcia,3017,44.71
+2026-03-01 09:20:38,McDonald's,4900,34.94
+2026-03-02 13:58:44,Kennedy-Joseph,3669,80.22
+2026-03-05 02:31:06,Jackson LLC,3715,18.17
+2026-03-02 18:57:54,Jones-Miller,3355,92.12
+2026-03-01 01:13:06,Berry Townsend and Estes,3611,54.34
+2026-03-05 19:10:54,Collins Moody and Lynn,3186,60.01
+2026-03-01 20:50:32,Oneill Dickerson and Walls,3652,4.66
+2026-03-03 21:06:57,Sheppard PLC,3632,44.0
+2026-03-04 17:55:58,Smith LLC,3298,19.81
+2026-03-04 14:52:07,Kennedy LLC,3004,39.15
+2026-03-06 07:32:52,Brooks-Vance,7995,46.56
+2026-03-01 23:30:59,Hamilton and Sons,3087,76.6
+2026-03-03 22:03:40,Rivera-Levine,3167,29.27
+2026-03-06 05:26:04,Frye Inc,3826,43.31
+2026-03-05 01:24:25,Martinez Hood and Cain,3829,10.03
+2026-03-02 03:38:37,Baxter Rodriguez and Lopez,4468,75.4
+2026-03-03 13:47:01,Jennings LLC,5261,99.99
+2026-03-02 02:32:49,Gilbert Barnes and Garcia,3110,23.97
+2026-03-03 16:56:30,Stanley Cervantes and Cruz,5542,78.56
+2026-03-02 03:37:27,Gray Navarro and Smith,3641,5.95
+2026-03-04 22:06:10,Peterson Group,5021,95.06
+2026-03-05 20:25:23,Mccormick Ewing and Maynard,7800,84.24
+2026-03-05 00:10:33,Long and Sons,3610,16.93
+2026-03-01 06:45:04,Farmer Wilson and Mason,5974,48.41
+2026-03-06 20:21:46,Villarreal Vaughn and Phillips,5949,57.27
+2026-03-03 18:42:32,Brown-Morgan,8042,47.57
+2026-03-01 23:33:27,Bowman-Jones,3000,77.16
+2026-03-06 02:00:31,Miller Ltd,7280,61.38
+2026-03-06 22:54:17,Martin and Sons,3739,72.4
+2026-03-02 02:08:57,Lozano PLC,3771,82.29
+2026-03-03 22:57:33,Perkins Vasquez and Castillo,3056,12.59
+2026-03-02 22:34:10,Davenport Group,4814,93.03
+2026-03-02 23:47:45,Martin Group,3563,68.38
+2026-03-06 16:04:32,Castillo Stone and Parks,3159,40.87
+2026-03-02 11:20:32,Stein-Osborn,3706,21.44
+2026-03-03 15:33:27,Cowan-Ruiz,3580,69.68
+2026-03-04 21:09:48,Holland-Ortiz,3616,25.8
+2026-03-03 13:13:17,Coleman Ltd,3687,77.7
+2026-03-05 04:26:56,Juarez-Ross,3674,60.84
+2026-03-03 09:16:08,White-Rodriguez,5966,80.03
+2026-03-03 21:24:55,Price-Keller,3553,78.7
+2026-03-01 05:31:06,Rodriguez-Powell,3102,54.21
+2026-03-02 11:28:23,Cole Ltd,3651,38.32
+2026-03-03 16:01:06,Hall LLC,3432,65.46
+2026-03-02 07:20:52,Rogers Stark and Ward,4112,85.26
+2026-03-05 01:06:56,Pitts Leblanc and Mcdaniel,3817,50.04
+2026-03-04 15:59:19,Wright-Marsh,3247,96.16
+2026-03-04 05:33:44,Boyd-Hernandez,3624,89.37
+2026-03-01 08:09:18,Hernandez Ltd,3296,71.32
+2026-03-02 17:09:13,Baker-Adams,3251,19.26
+2026-03-03 21:26:13,Le LLC,3508,96.62
+2026-03-06 15:00:48,Aguilar LLC,3014,62.36
+2026-03-05 00:40:11,Martinez Phillips and Ball,3525,77.91
+2026-03-02 01:01:56,Adams Williams and Brown,3353,44.69
+2026-03-01 05:33:42,Sanchez Inc,3722,60.06
+2026-03-03 15:16:25,Delgado-Guzman,3068,85.47
+2026-03-05 09:03:13,Castillo Hammond and Dixon,3825,93.59
+2026-03-01 19:18:52,Jones Lam and Jones,3023,88.4
+2026-03-05 09:06:52,Mayo PLC,9223,75.55
+2026-03-02 03:55:29,Hebert-Harris,3557,61.81
+2026-03-03 22:35:06,Rowland Morgan and Jensen,3167,34.97
+2026-03-05 14:20:56,Wolfe LLC,3409,85.39
+2026-03-05 14:12:55,Lewis Ltd,7395,49.78
+2026-03-06 04:24:09,Mercer Clark and Barnes,3118,80.19
+2026-03-01 07:06:46,Bradley-Cantu,3090,29.41
+2026-03-06 05:27:12,Barker Ward and Long,3584,70.72
+2026-03-01 21:21:46,Daniel-Roth,3020,56.47
+2026-03-02 00:18:50,Nguyen Inc,3503,94.91
+2026-03-04 09:55:43,Brown PLC,5699,25.65
+2026-03-05 01:45:13,Snyder Nguyen and Hughes,3212,49.88
+2026-03-06 18:45:35,Cummings-Lopez,3750,25.55
+2026-03-02 15:18:14,Williams Wolfe and Roberts,3370,65.3
+2026-03-02 07:50:40,Brooks Bailey and Lewis,3396,45.92
+2026-03-05 01:45:36,Williams-Butler,4411,11.12
+2026-03-02 22:02:54,Moore Montgomery and Matthews,8049,41.63
+2026-03-06 19:09:49,Reynolds-Sanford,9223,32.01
+2026-03-02 11:55:05,Henry Diaz and Ford,3569,38.16
+2026-03-03 02:35:09,Campbell Ltd,3540,54.03
+2026-03-04 00:31:03,Ramirez Waters and Hanson,3238,99.67
+2026-03-03 21:27:59,Simpson Group,3537,34.42
+2026-03-06 22:14:46,Young Group,3693,46.47
+2026-03-03 11:35:03,Sherman Ltd,3051,26.64
+2026-03-01 03:47:50,Hayes PLC,5966,72.69
+2026-03-06 20:18:59,Mendoza Phillips and Clark,3061,13.72
+2026-03-06 00:24:32,Hernandez Nunez and Miller,3522,95.19
+2026-03-01 18:56:08,Miller Ltd,3680,20.14
+2026-03-01 17:50:12,Turner PLC,8031,74.38
+2026-03-02 10:25:07,Scott-Collins,3021,73.01
+2026-03-01 08:06:23,Morgan-Henry,3752,53.41
+2026-03-01 10:08:07,Murphy-Nguyen,3027,98.09
+2026-03-02 02:53:38,Hartman Inc,3827,21.02
+2026-03-04 01:17:53,Russell Group,8241,37.37
+2026-03-03 15:37:47,Nguyen Group,3047,3.39
+2026-03-05 05:55:30,Nichols Ltd,3520,14.41
+2026-03-06 10:53:34,Baird-Castaneda,5193,97.48
+2026-03-04 02:44:33,Fuller Ltd,3540,30.63
+2026-03-02 10:54:17,Vasquez Curtis and Lopez,5974,64.51
+2026-03-06 04:26:47,Bowen Inc,3744,50.11
+2026-03-02 15:36:23,Cooper-Simon,4112,58.26
+2026-03-03 23:22:51,Mills LLC,3359,48.91
+2026-03-04 06:05:19,Gray and Sons,3090,20.07
+2026-03-02 00:20:06,Villegas Group,5251,26.74
+2026-03-05 10:50:37,Kent Vasquez and Francis,3376,13.18
+2026-03-01 23:51:53,Becker-Brown,5462,41.27
+2026-03-04 15:13:42,Moran Washington and White,5598,58.55
+2026-03-01 13:38:41,Baxter-Hughes,3676,7.25
+2026-03-02 11:29:07,Bennett-Mora,6537,81.49
+2026-03-06 07:49:25,Salazar Ltd,3049,10.35
+2026-03-02 05:23:20,Willis-Martin,9405,13.61
+2026-03-05 14:13:26,Stout-Hayes,3757,42.79
+2026-03-06 09:35:11,Bailey-Nunez,3584,79.49
+2026-03-06 21:27:12,Bates-Kaufman,8211,78.02
+2026-03-01 12:17:17,Brown-Petty,3170,46.15
+2026-03-04 06:33:36,Hardy PLC,3262,31.14
+2026-03-02 18:25:40,Williams Villa and Scott,3576,99.02
+2026-03-04 08:28:26,Edwards-Paul,3050,57.73
+2026-03-04 22:13:08,Cruz and Sons,5399,61.74
+2026-03-01 05:55:16,King-Petersen,3731,11.72
+2026-03-05 13:57:15,Yates-Carson,3755,22.36
+2026-03-01 20:30:17,Ellis-Peters,7995,27.94
+2026-03-03 16:37:25,Williams-Robertson,5681,17.39
+2026-03-03 00:09:00,Walker Lee and Alexander,7321,56.1
+2026-03-01 19:55:27,Ayers Gonzales and Schmidt,7210,2.26
+2026-03-04 06:30:16,Barton Gonzalez and Bryant,3282,69.56
+2026-03-02 06:04:02,Baker Jackson and Ward,3360,30.54
+2026-03-05 15:39:01,Park Ochoa and Wolfe,8641,30.23
+2026-03-06 22:46:43,Young-Brown,3027,70.89
+2026-03-03 09:20:12,Taylor Boone and Gonzalez,3286,8.98
+2026-03-05 07:42:55,Jones and Sons,8661,92.54
+2026-03-03 20:28:50,Miller Sullivan and Logan,3781,79.54
+2026-03-04 17:15:39,Hill Campbell and Barajas,3577,66.8
+2026-03-05 07:53:57,Santana-Smith,7692,43.66
+2026-03-05 13:51:34,Becker-Walters,3531,24.03
+2026-03-03 07:47:33,Parks Lee and Ruiz,6537,91.02
+2026-03-06 23:51:55,Robinson-Meyer,3821,15.94
+2026-03-02 00:24:01,Christensen-Byrd,5399,18.26
+2026-03-06 19:29:10,Holt Glenn and Marquez,3052,60.31
+2026-03-04 18:48:06,Smith Ward and Hoffman,3819,57.78
+2026-03-01 16:20:22,Stewart-Shaw,3033,45.04
+2026-03-01 01:38:53,Harris Monroe and Berry,3357,69.49
+2026-03-03 01:18:05,Garcia and Sons,3690,41.45
+2026-03-05 22:00:30,Henderson White and Young,3016,51.05
+2026-03-03 10:31:13,Johnson Inc,3405,44.9
+2026-03-04 02:15:57,Sanchez Ramos and Stephenson,3586,5.91
+2026-03-06 23:15:15,Logan-Hernandez,3246,73.98
+2026-03-04 19:52:32,Young Ltd,3592,26.54
+2026-03-04 11:06:09,Powell Hobbs and Davis,5732,24.43
+2026-03-04 18:17:31,Porter-Smith,3664,83.92
+2026-03-04 22:42:00,House-Henry,3563,59.54
+2026-03-03 22:25:54,Deleon and Sons,4582,99.96
+2026-03-03 22:28:14,Evans PLC,3662,82.5
+2026-03-05 12:57:37,Richardson Inc,3564,5.94
+2026-03-06 22:15:55,Thomas Alvarez and Christensen,3748,19.17
+2026-03-01 05:28:26,Brown and Sons,3505,65.85
+2026-03-06 07:22:32,Melendez Jones and Allen,3022,19.79
+2026-03-04 17:22:42,Harris and Sons,3573,44.72
+2026-03-06 11:06:01,Hansen-Cook,3808,50.19
+2026-03-01 04:08:51,Singleton-White,5732,48.06
+2026-03-01 16:50:58,Robinson Ltd,3215,34.66
+2026-03-02 15:23:58,Walters-Osborn,3660,12.25
+2026-03-04 06:08:30,Mcneil PLC,7221,34.32
+2026-03-01 03:55:54,Dixon Wheeler and Houston,3684,50.56
+2026-03-02 02:20:34,Bailey Inc,3652,94.63
+2026-03-06 11:26:34,Rhodes Harris and Moore,3808,76.53
+2026-03-06 23:58:15,McDonald's,5074,10.63
+2026-03-05 13:36:27,Kroger,9751,13.36
+2026-03-01 06:32:26,Reed Group,3766,41.61
+2026-03-02 17:50:15,Casey Phelps and Keith,3441,82.84
+2026-03-02 15:58:52,Mcconnell-Martinez,0763,66.45
+2026-03-06 13:36:48,Stephens-Brady,3529,47.27
+2026-03-03 18:07:10,Coffey-Bradshaw,5299,20.38
+2026-03-05 16:51:54,Daniel-Smith,3132,63.02
+2026-03-06 19:37:40,Palmer Noble and Ferguson,3421,63.29
+2026-03-06 22:21:52,Guzman Inc,3752,7.06
+2026-03-03 04:34:32,Freeman-King,3011,55.82
+2026-03-01 22:34:27,Watts Miller and Thomas,3032,44.94
+2026-03-03 03:56:44,Harris Group,3689,49.5
+2026-03-05 01:10:00,Chipotle,4900,61.67
+2026-03-01 17:28:49,Evans Merritt and Johnson,8999,71.56
+2026-03-03 09:10:00,Martinez Brown and Rodriguez,3056,55.98
+2026-03-06 07:06:12,Patton Jones and Pineda,3539,41.98
+2026-03-02 00:01:50,Davis-Griffin,8111,99.24
+2026-03-05 20:48:23,Hayes-Guerrero,5948,47.22
+2026-03-05 11:02:26,Williams PLC,5961,65.48
+2026-03-05 10:23:25,Ward-Morrison,7012,50.84
+2026-03-02 01:30:09,Ritter Butler and Anderson,3707,30.6
+2026-03-05 03:18:49,Rollins Allen and Lam,3696,28.8
+2026-03-05 11:36:47,Dennis Group,3829,49.28
+2026-03-01 21:26:26,Cain-Wright,3362,25.89
+2026-03-03 02:40:14,Miller-Williams,3538,16.17
+2026-03-03 07:27:07,Collins Inc,7542,92.34
+2026-03-04 08:11:53,Wagner-Fritz,3434,75.14
+2026-03-03 19:35:27,Short PLC,5997,86.67
+2026-03-03 02:23:56,Meyers Russell and Graham,3020,77.72
+2026-03-03 14:09:47,Dunn Mills and Brandt,3221,35.31
+2026-03-05 15:25:22,Moore Jones and Atkins,3781,51.76
+2026-03-01 02:48:32,Dunn LLC,3815,2.25
+2026-03-06 18:56:31,Parker PLC,3717,31.26
+2026-03-05 13:07:46,Juarez LLC,3575,58.83
+2026-03-01 19:57:46,Davis LLC,3649,49.98
+2026-03-06 01:52:09,Petersen-Roman,6537,45.76
+2026-03-05 17:25:40,Richmond and Sons,3388,35.82
+2026-03-01 12:15:23,Kelly-Graham,3539,76.76
+2026-03-04 11:43:25,Richardson-Williams,3164,46.62
+2026-03-03 11:07:20,Robinson Conley and Gutierrez,3067,87.22
+2026-03-04 20:42:01,Stephens-Lewis,3688,25.4
+2026-03-01 09:27:50,Cortez-Brown,3174,24.89
+2026-03-05 07:54:56,Jenkins Escobar and Young,3769,42.26
+2026-03-04 19:02:54,Kline LLC,3063,74.98
+2026-03-01 03:22:02,Johnson-Powell,3696,91.52
+2026-03-02 16:39:57,Griffin Butler and Ward,3171,39.84
+2026-03-03 19:46:42,Cuevas and Sons,3653,79.65
+2026-03-06 15:31:46,Johnson-Carroll,3641,98.12
+2026-03-02 17:39:30,Patel-Lewis,3412,96.55
+2026-03-06 16:53:23,Williams Taylor and Smith,5974,51.22
+2026-03-04 05:20:41,Jones Group,3578,34.54
+2026-03-04 09:23:54,Miller Wood and Taylor,5912,87.67
+2026-03-03 14:00:40,Robinson-Jackson,3259,11.77
+2026-03-03 04:26:34,Nelson Jackson and Welch,3293,3.5
+2026-03-04 14:26:04,Higgins-Sawyer,6381,42.18
+2026-03-01 22:00:50,Jackson-Evans,3644,97.06
+2026-03-04 06:25:20,Smith-Cook,5611,48.01
+2026-03-03 05:59:59,Ball May and Williams,3009,35.18
+2026-03-05 02:33:13,Paul Wells and Rogers,3683,40.95
+2026-03-02 15:09:19,Robinson-Anderson,5661,85.47
+2026-03-05 14:43:18,Ortiz-Howard,3664,86.22
+2026-03-01 14:48:14,Cox Inc,3170,95.51
+2026-03-03 17:19:39,Lewis-Price,3615,72.43
+2026-03-06 06:32:27,Davis Inc,3751,49.82
+2026-03-01 04:53:08,Thomas-Estrada,3528,5.52
+2026-03-02 02:51:12,James-Willis,5542,25.01
+2026-03-05 08:00:45,Roberts-Edwards,3674,92.25
+2026-03-01 20:30:41,Robinson Arias and Kelly,8241,75.18
+2026-03-04 23:36:30,Bradley Inc,3248,97.88
+2026-03-03 05:37:58,Boone Ltd,3752,64.11
+2026-03-02 05:15:32,Simmons Young and Owens,5912,45.48
+2026-03-03 00:09:31,Lucero Miller and Fitzpatrick,3684,31.35
+2026-03-06 02:14:51,Starbucks,4900,33.79
+2026-03-05 20:26:29,Hernandez LLC,5309,30.75
+2026-03-01 09:29:11,Nguyen-Moore,3156,44.21
+2026-03-01 10:28:25,Whitaker Inc,9311,54.05
+2026-03-06 15:43:07,Ramirez-Perry,3553,68.82
+2026-03-01 08:54:56,Robinson and Sons,7361,18.66
+2026-03-01 11:33:24,Weber-Williams,5651,61.73
+2026-03-06 23:27:57,Foster-Cain,3172,62.73
+2026-03-03 00:44:18,Morrison Inc,9034,50.77
+2026-03-04 05:58:27,West Richardson and Castillo,3571,16.03
+2026-03-05 12:06:27,Wallace-Johnson,3298,64.51
+2026-03-01 14:16:54,Lloyd and Sons,3296,27.02
+2026-03-06 01:01:27,Marshall Daniels and Anderson,2741,90.09
+2026-03-03 21:02:46,Young-Campos,3353,90.32
+2026-03-06 03:14:49,Reid Anderson and Carlson,3667,55.57
+2026-03-04 21:51:42,Hull LLC,5598,45.29
+2026-03-04 11:00:48,Wang Smith and Smith,3099,98.79
+2026-03-01 00:24:33,Austin LLC,3044,64.62
+2026-03-05 17:11:33,Moreno-Collins,3236,69.65
+2026-03-01 18:14:35,Williams-Turner,3293,84.84
+2026-03-05 14:45:33,Ward-Atkinson,7699,99.94
+2026-03-01 02:44:20,Crosby Inc,3387,12.45
+2026-03-05 21:54:00,Avery LLC,3171,58.05
+2026-03-03 10:07:52,Gaines Cline and Gonzales,3562,31.0
+2026-03-05 05:40:50,Hernandez Lopez and Nguyen,3690,30.93
+2026-03-06 17:01:58,Bishop Miller and Howard,3824,66.51
+2026-03-04 23:46:51,Haynes Ltd,3019,2.79
+2026-03-04 20:05:35,Duffy Inc,3676,78.27
+2026-03-04 00:44:04,Gentry Group,5211,91.24
+2026-03-04 01:15:01,Pearson Ltd,3737,50.68
+2026-03-01 05:19:56,Shelton-Adams,3031,78.02
+2026-03-02 16:17:33,Ford Jones and Todd,8351,61.49
+2026-03-02 05:20:39,Klein-Aguirre,3112,23.46
+2026-03-04 17:36:36,Flynn-Hill,7538,62.85
+2026-03-05 07:25:00,Henderson-Olson,3668,76.05
+2026-03-06 08:52:17,Sullivan-Benton,3760,66.6
+2026-03-05 19:42:54,Mckay-Lynn,5998,63.57
+2026-03-04 23:58:45,Jackson-Brown,3616,65.34
+2026-03-01 01:45:42,Bishop Turner and Williams,3054,79.28
+2026-03-04 20:25:55,Wright Martinez and Wolf,5051,58.8
+2026-03-01 03:41:44,Fry Trevino and Hicks,3723,14.88
+2026-03-05 18:12:00,Conner and Sons,3040,34.02
+2026-03-01 12:10:34,Larson Allison and Perez,3222,19.21
+2026-03-02 16:06:23,Paul Williams and Meadows,5993,79.08
+2026-03-03 13:18:11,Rasmussen-Graham,3137,54.02
+2026-03-05 05:51:37,Mcconnell LLC,3017,83.39
+2026-03-02 15:09:33,Velez-Carlson,3001,91.58
+2026-03-03 00:51:54,Mccarthy Potter and Pena,3386,96.8
+2026-03-05 10:22:16,Brown PLC,3040,75.16
+2026-03-01 11:42:55,Hill PLC,3088,80.81
+2026-03-02 08:02:04,Booth Mitchell and Young,3357,96.36
+2026-03-04 05:45:10,Stevens Inc,6211,75.91
+2026-03-04 06:12:42,Phillips-Anderson,8211,86.29
+2026-03-03 12:18:59,Mitchell Robinson and Collins,3715,68.09
+2026-03-03 17:44:09,Webb PLC,3190,96.79
+2026-03-02 05:17:05,Potts-Valentine,3798,56.62
+2026-03-02 12:54:34,Shaw Ruiz and Montes,5722,79.49
+2026-03-03 15:45:52,Lyft,4121,54.58
+2026-03-05 17:49:49,Curry Poole and Johnson,3287,38.12
+2026-03-03 17:05:45,Griffin Group,3740,67.89
+2026-03-03 19:57:24,Jenkins Jones and Carter,3572,39.34
+2026-03-04 05:44:35,Keller Davila and Schmidt,3627,94.15
+2026-03-05 06:17:13,Cruz and Sons,5942,68.13
+2026-03-03 01:32:51,Acosta-Lucero,3361,4.45
+2026-03-01 23:47:03,Lopez and Sons,3548,34.14
+2026-03-04 04:28:08,Thomas and Sons,3598,23.69
+2026-03-03 15:16:30,Wilson PLC,5441,64.27
+2026-03-01 01:14:49,Martinez LLC,3352,91.12
+2026-03-05 16:17:26,Jones-Francis,3047,65.63
+2026-03-06 16:20:08,Weber-Ramirez,5960,15.7
+2026-03-06 21:40:52,Vaughn Contreras and Gonzalez,5085,31.83
+2026-03-02 17:23:37,Singleton LLC,3400,13.38
+2026-03-06 22:11:37,Coffey Ltd,8675,88.95
+2026-03-02 06:12:54,Rodriguez Cook and Dudley,5996,40.09
+2026-03-06 23:21:58,Velazquez Inc,3146,67.71
+2026-03-03 13:49:05,Davis-Olsen,3734,70.26
+2026-03-02 21:24:50,Lynn Ltd,3527,43.07
+2026-03-04 15:11:48,Hunter Mccarty and Horn,3734,73.21
+2026-03-05 11:18:27,Day-Smith,3221,66.18
+2026-03-04 21:25:00,Holt-Lloyd,3828,49.96
+2026-03-04 20:23:07,Becker Raymond and Simpson,3213,94.03
+2026-03-03 13:21:34,Zuniga-Frazier,3024,5.21
+2026-03-04 09:19:38,Clark LLC,3146,23.29
+2026-03-05 12:03:27,Morales PLC,3266,95.15
+2026-03-01 08:02:21,Smith-Weaver,3133,11.74
+2026-03-05 09:15:34,Deleon Guzman and Pham,3676,38.0
+2026-03-03 19:10:47,Bennett Hurst and Lindsey,3634,37.15
+2026-03-05 16:10:50,Simpson-Bailey,3191,29.04
+2026-03-04 00:51:45,Trevino Bennett and Tyler,5968,95.0
+2026-03-06 15:56:15,Smith-Lee,3818,46.56
+2026-03-01 21:19:55,Robertson Group,3652,22.79
+2026-03-01 21:42:13,Bates Inc,3628,60.52
+2026-03-06 03:37:20,Ortiz Flores and Richardson,4582,6.96
+2026-03-04 16:24:52,Miles-Carter,3083,25.87
+2026-03-04 13:32:57,Johnson Group,5973,79.12
+2026-03-05 02:36:14,Gonzalez Gallegos and Wilcox,7932,8.72
+2026-03-02 22:27:29,Fletcher-Bonilla,3758,56.31
+2026-03-04 21:32:04,Walter Fisher and Davis,3574,23.16
+2026-03-03 02:30:40,Doyle Santana and Bryan,8651,34.2
+2026-03-05 01:25:24,Kemp Malone and Scott,6536,79.29
+2026-03-01 18:28:46,Miller PLC,3584,2.28
+2026-03-04 11:14:22,Bradley Robinson and Wyatt,6513,98.78
+2026-03-06 03:49:31,Taylor Shaw and Sweeney,3527,26.56
+2026-03-01 21:02:25,Briggs-Singh,7332,12.77
+2026-03-02 16:18:34,Mcbride LLC,4814,14.92
+2026-03-06 15:30:08,Flores-Roth,3127,79.42
+2026-03-04 17:27:17,Gonzales Price and Holt,8911,59.71
+2026-03-01 10:41:29,Thompson-Mcdonald,4215,19.08
+2026-03-06 16:55:50,Hooper Ltd,5261,14.42
+2026-03-06 15:20:31,White Walker and White,3233,53.56
+2026-03-04 15:36:02,Patel Powell and Taylor,3737,8.23
+2026-03-02 18:41:14,Obrien-Myers,3280,78.25
+2026-03-05 22:11:07,White-Silva,3439,60.18
+2026-03-06 23:05:09,Morrison Lee and Davis,3284,51.38
+2026-03-05 13:55:16,Washington-Reyes,3603,6.25
+2026-03-02 02:24:06,Smith-Carter,3777,91.06
+2026-03-05 18:44:51,Lozano-Mercado,3648,53.1
+2026-03-01 17:14:33,Hess and Sons,3295,65.05
+2026-03-01 14:16:07,Mcmahon Thornton and Hodges,5021,7.96
+2026-03-03 21:54:22,Ramirez and Sons,3380,85.04
+2026-03-06 23:05:35,Brown Stone and Logan,3239,69.24
+2026-03-03 15:44:17,Ray-Perry,3396,71.82
+2026-03-02 20:21:14,Lucero Inc,3263,9.2
+2026-03-06 18:15:41,Wallace LLC,5661,33.57
+2026-03-05 06:24:01,Long-Miles,6536,8.44
+2026-03-03 21:19:36,Hughes and Sons,3019,63.18
+2026-03-02 01:43:20,Young Ho and Shah,3573,55.74
+2026-03-04 15:30:46,Miller-Hopkins,3071,39.33
+2026-03-04 21:38:49,Malone Group,3585,53.99
+2026-03-03 02:27:40,Quinn and Sons,3286,51.54
+2026-03-03 04:05:23,Edwards Kaufman and Frazier,3243,11.72
+2026-03-04 14:21:41,Munoz Inc,3692,13.21
+2026-03-04 21:51:56,Sheppard and Sons,3644,65.79
+2026-03-05 11:06:45,Randall Ltd,3762,56.03
+2026-03-06 15:58:57,Bailey and Sons,8021,44.15
+2026-03-05 14:07:41,Little and Sons,8244,42.55
+2026-03-03 02:32:25,Williams-Warren,3822,46.44
+2026-03-03 09:57:19,Gonzalez Jones and Strickland,3222,73.5
+2026-03-06 08:26:43,Rosales Tran and Hobbs,3058,43.82
+2026-03-05 09:41:04,Petersen-Schultz,3655,26.98
+2026-03-03 22:40:33,Wolfe LLC,6760,69.31
+2026-03-04 02:16:21,Martinez-Nicholson,3366,8.58
+2026-03-03 12:34:03,Moore Ltd,3826,10.37
+2026-03-02 05:23:42,Walter-Brandt,3246,11.46
+2026-03-05 02:48:34,Francis Ltd,3730,38.52
+2026-03-06 23:06:40,Thomas Ltd,5978,56.52
+2026-03-02 19:35:23,Thompson Ltd,3574,95.75
+2026-03-03 21:32:49,Lindsey-Yu,3549,34.31
+2026-03-02 08:00:54,Knight LLC,5968,42.26
+2026-03-03 08:38:28,Hicks Pham and Burns,3655,94.23
+2026-03-05 22:10:29,Hill-Jones,3235,87.07
+2026-03-01 19:12:12,Ramos-Johnson,3712,7.04
+2026-03-06 09:50:21,Greene Holmes and Wilkerson,3032,60.84
+2026-03-05 16:21:35,Payne Ltd,3112,12.15
+2026-03-01 10:35:13,Young-Carney,3433,22.85
+2026-03-02 02:27:38,Wheeler LLC,3646,49.25
+2026-03-05 07:17:58,Page Beck and Cantu,5942,36.31
+2026-03-04 16:47:00,Woods LLC,3543,38.02
+2026-03-05 02:18:42,Conner PLC,3754,29.3
+2026-03-01 10:14:44,Kelley-Garza,8211,81.11
+2026-03-05 14:50:34,Ford PLC,3548,97.51
+2026-03-04 21:28:07,Walls-Webb,3813,62.93
+2026-03-03 05:56:10,Harrison Morris and Gibson,3665,64.98
+2026-03-05 03:12:08,Lewis Melton and Davis,4814,61.68
+2026-03-01 16:40:07,Castillo Group,3647,83.29
+2026-03-01 17:48:48,House-Gonzalez,3011,4.84
+2026-03-06 22:26:48,Hunt Bradshaw and Mendez,3017,70.86
+2026-03-05 19:27:31,Reese-Miller,3054,92.31
+2026-03-01 07:03:34,Smith LLC,3111,2.6
+2026-03-06 22:30:29,Knapp-Johnson,6300,57.5
+2026-03-05 13:19:35,Frank Fischer and Freeman,3197,8.82
+2026-03-06 07:39:15,Gomez-Payne,3732,64.05
+2026-03-01 18:07:32,Nielsen Perry and Day,5021,10.99
+2026-03-05 16:05:53,Wilson Day and Mendez,3517,23.08
+2026-03-05 13:42:34,Harris Ltd,3229,46.46
+2026-03-01 03:17:53,Banks-Fletcher,7211,38.27
+2026-03-03 03:31:00,Lynch-Chambers,3712,33.79
+2026-03-05 04:01:48,Walker-Owens,3555,60.43
+2026-03-01 14:53:18,Rodriguez Perkins and Burgess,5261,17.25
+2026-03-01 01:17:08,Wilson Inc,3746,62.55
+2026-03-04 21:46:04,Rodriguez Green and Washington,3664,9.99
+2026-03-02 04:52:44,Aguilar Kelley and Watson,3262,66.87
+2026-03-05 12:16:07,Rodgers-Armstrong,3390,61.49
+2026-03-05 07:33:27,Chen Davis and Gonzalez,3221,28.77
+2026-03-04 02:44:12,Fisher-Johnson,3747,52.21
+2026-03-06 00:01:43,Kim-Wall,3099,44.13
+2026-03-03 07:54:02,Brown Banks and Terrell,3028,68.47
+2026-03-05 06:39:57,Kelley Alexander and Hensley,3581,49.69
+2026-03-05 07:04:32,Garcia Stone and Ross,3657,32.23
+2026-03-04 16:12:20,Dorsey-Fowler,8044,40.74
+2026-03-01 14:25:35,Navarro-Riley,3587,7.37
+2026-03-06 04:47:36,Jones Group,7911,31.54
+2026-03-04 01:32:10,Lin-Gomez,7995,77.2
+2026-03-01 07:44:51,Johnson Group,3757,27.04
+2026-03-02 19:05:22,Gray Ltd,3076,13.76
+2026-03-04 16:36:29,Ferguson PLC,3420,75.21
+2026-03-02 14:43:47,Tanner Mclean and Williams,7333,14.66
+2026-03-02 15:49:18,Barrera LLC,3519,70.96
+2026-03-03 06:27:48,Fuller LLC,3425,56.75
+2026-03-03 17:47:27,Phillips-Lawson,3658,81.01
+2026-03-01 13:53:38,Miller-Ayala,5571,40.91
+2026-03-05 03:00:40,Bass-Chavez,3733,6.15
+2026-03-04 12:38:04,Hurst LLC,4468,47.06
+2026-03-04 21:25:41,Rogers-Hill,5641,86.49
+2026-03-01 23:44:26,Washington and Sons,3563,44.07
+2026-03-05 05:39:49,Sparks Davis and Jimenez,3206,71.53
+2026-03-04 20:14:50,Andrews Ltd,3226,30.37
+2026-03-03 20:26:39,Shelton-Ferguson,3206,4.04
+2026-03-04 19:04:14,Molina-White,3071,18.84
+2026-03-01 03:26:02,Day Miller and Salazar,3606,47.09
+2026-03-03 05:06:51,Campbell Strong and White,3680,92.14
+2026-03-01 19:33:01,Berg PLC,5718,44.8
+2026-03-04 21:46:03,Martinez-Owen,5940,25.85
+2026-03-01 18:34:01,Padilla PLC,3577,41.24
+2026-03-04 20:23:19,Gordon Rojas and Braun,5651,40.79
+2026-03-02 18:24:05,Bradshaw Ortega and Martinez,3055,75.09
+2026-03-02 20:38:01,Mason-Fields,8049,34.64
+2026-03-06 00:29:21,Lopez and Sons,7295,9.49
+2026-03-02 03:46:21,Reynolds Ltd,3622,13.17
+2026-03-03 21:08:24,Huang Flores and Martinez,3436,21.0
+2026-03-01 10:14:17,Clark Wells and Mitchell,3769,36.24
+2026-03-01 14:56:48,Wallace-Fernandez,3718,95.91
+2026-03-04 01:17:33,Sanchez Bates and Bowers,3634,81.87
+2026-03-06 11:52:19,Farmer and Sons,8734,12.07
+2026-03-04 03:51:42,Carlson Woods and Stone,3000,21.33
+2026-03-01 00:54:33,Lambert LLC,3590,16.98
+2026-03-06 04:58:21,Carrillo-Davis,3751,66.24
+2026-03-01 04:03:34,Hughes Cobb and Reed,7339,95.23
+2026-03-02 15:38:21,Soto-Mckee,3617,50.42
+2026-03-03 08:59:38,Rivera Group,3746,57.25
+2026-03-02 10:55:15,Ramirez Hardin and Bird,3567,45.99
+2026-03-06 13:31:33,Smith Bowman and Brady,3552,65.01
+2026-03-03 22:06:43,Mills and Sons,3613,33.67
+2026-03-02 04:47:43,Bentley Group,3616,32.98
+2026-03-01 09:46:04,Rich-Martinez,3259,8.69
+2026-03-03 17:48:06,Gonzalez Garrett and Romero,3261,63.88
+2026-03-03 18:03:16,Williams-Holloway,3790,28.92
+2026-03-03 10:35:20,Moore Mckenzie and Lopez,5309,36.49
+2026-03-06 02:56:26,Glover-Ramirez,5598,32.42
+2026-03-04 20:52:25,White-Best,3284,5.69
+2026-03-04 08:15:09,Flores and Sons,3144,83.51
+2026-03-04 01:00:57,Jackson-Saunders,5631,65.18
+2026-03-06 11:54:51,Ruiz-Padilla,5722,62.27
+2026-03-02 13:31:38,Tran Bright and Fischer,3433,39.68
+2026-03-02 13:32:47,Johnson-Villanueva,3568,56.32
+2026-03-06 15:36:17,Benton Thompson and Lawrence,3785,74.41
+2026-03-04 15:33:09,Paul-Rivas,5131,46.07
+2026-03-01 07:09:13,Costa Inc,3804,58.02
+2026-03-06 16:39:55,Martinez-Ochoa,7534,33.51
+2026-03-05 11:36:29,Spence LLC,3370,51.13
+2026-03-04 11:40:24,Daniels Wilson and Calderon,5422,46.15
+2026-03-03 08:34:35,Mcmillan Archer and Rose,3805,90.11
+2026-03-02 03:45:09,Golden Valencia and Richard,3097,98.27
+2026-03-04 06:30:02,Perez LLC,5698,51.45
+2026-03-01 20:26:45,Johnston Hicks and Alvarado,7311,5.84
+2026-03-04 01:29:19,Jenkins Tate and Perez,3698,44.9
+2026-03-04 19:47:16,Brewer PLC,3256,53.36
+2026-03-05 14:45:11,Shaw Hawkins and Phillips,3598,17.56
+2026-03-02 20:42:28,Berg-Hill,3151,91.96
+2026-03-05 14:27:24,Martinez-Duarte,3178,42.06
+2026-03-06 06:58:14,Brown Ltd,3088,68.53
+2026-03-05 22:37:51,Guzman PLC,5261,79.34
+2026-03-01 05:36:05,Anderson Frazier and Rivera,3636,34.8
+2026-03-04 09:39:50,Hernandez-Benton,3078,11.26
+2026-03-04 14:35:18,Rodriguez-Richards,3668,39.88
+2026-03-01 15:39:26,Trader Joe's,9751,85.45
+2026-03-03 18:04:44,Young Garner and Peters,3591,87.58
+2026-03-02 08:20:25,Crane Young and Butler,3083,9.99
+2026-03-03 07:22:25,Thomas PLC,3653,15.86
+2026-03-03 03:15:42,Carrillo Ltd,3110,32.4
+2026-03-06 23:19:45,Cooper Frost and Jenkins,3645,70.45
+2026-03-05 15:40:44,Hernandez-Simon,3184,14.64
+2026-03-05 06:26:01,Williams Inc,3699,93.92
+2026-03-05 23:31:48,Bryant Miranda and Murray,3055,56.77
+2026-03-04 07:04:27,Cox Alexander and Perez,3632,79.58
+2026-03-02 04:07:02,Anderson and Sons,3807,14.52
+2026-03-02 01:34:23,Aguirre-Clayton,3693,83.24
+2026-03-03 19:50:26,Park Cherry and Hodge,3730,99.72
+2026-03-04 17:43:29,Smith-Nielsen,3513,11.16
+2026-03-01 07:29:14,Preston Cooper and Jordan,3660,43.49
+2026-03-05 04:03:36,Gibson-Webb,3132,3.79
+2026-03-03 02:08:55,Green-Smith,3054,19.67
+2026-03-01 14:03:28,Cruz Group,8011,35.49
+2026-03-03 21:43:25,Diaz Murphy and George,3759,49.65
+2026-03-05 01:43:46,Ross Griffin and Wright,8211,100.0
+2026-03-02 03:26:07,Vance Foster and Young,7032,9.56
+2026-03-06 19:37:48,Smith Mitchell and Powell,3782,11.91
+2026-03-01 20:20:02,Richardson Andrews and Hooper,3764,54.9
+2026-03-05 10:18:22,Smith-Hoover,3730,88.6
+2026-03-04 03:35:00,Davis-Rios,5085,66.87
+2026-03-04 22:10:31,Cole Oneal and Gonzalez,3759,62.57
+2026-03-03 20:17:08,Moody Evans and Zimmerman,3585,38.92
+2026-03-02 19:15:50,Rivera-Jones,7261,19.72
+2026-03-05 22:33:53,Bray Group,3683,77.57
+2026-03-01 13:48:29,Francis Ltd,3803,90.46
+2026-03-02 03:43:44,Ford Ltd,3712,44.89
+2026-03-06 03:32:01,Page-Green,3217,37.7
+2026-03-03 09:23:09,Davis Ltd,3710,25.28
+2026-03-01 20:06:12,Evans-Stanton,3263,61.84
+2026-03-01 02:07:44,Singleton Ltd,3744,75.36
+2026-03-04 02:06:47,Green-Mcdonald,3280,24.93
+2026-03-04 19:06:30,Barrett Ltd,8931,32.33
+2026-03-01 12:21:44,Fisher-Smith,3803,78.87
+2026-03-06 14:43:39,Barber Ray and Robles,3830,21.01
+2026-03-02 12:35:45,Anderson LLC,3668,94.82
+2026-03-06 14:25:43,Anderson Valentine and Weaver,3260,47.24
+2026-03-04 19:01:33,Garcia Watson and York,3026,78.26
+2026-03-03 12:47:04,Palmer Burke and Andrade,3428,53.69
+2026-03-02 16:21:54,Shelton Group,7230,82.06
+2026-03-04 22:30:54,La Vogue,3795,15.56
+2026-03-04 16:13:27,Thompson-Perez,9701,7.11
+2026-03-01 19:02:24,Williams-Santana,3385,87.66
+2026-03-03 13:38:46,Cisneros-Johnson,3541,93.56
+2026-03-01 05:23:49,Hamilton Huff and Taylor,3702,84.9
+2026-03-04 13:34:59,Edwards-Gill,5971,29.94
+2026-03-03 08:40:18,Lane Inc,3755,17.71
+2026-03-05 05:09:09,Smith-Joseph,3281,90.72
+2026-03-04 00:37:11,Cisneros LLC,6535,83.44
+2026-03-03 18:09:06,Cox Wood and Simpson,5732,94.75
+2026-03-02 14:07:23,Fitzgerald-Parks,8050,82.04
+2026-03-03 00:48:50,Spencer Inc,3106,93.19
+2026-03-03 17:00:09,Ramirez LLC,3221,7.22
+2026-03-04 07:22:31,Davis Inc,3428,38.65
+2026-03-01 18:54:06,Bell and Sons,3177,99.46
+2026-03-05 16:29:29,Brown-Lambert,3156,24.0
+2026-03-05 19:27:10,Jones Thompson and Kirby,3064,93.22
+2026-03-03 03:43:09,Hill-Sherman,3705,65.7
+2026-03-02 23:38:38,Mitchell-Stewart,3785,16.31
+2026-03-05 15:19:40,Morrow PLC,5094,30.11
+2026-03-06 17:03:43,Thomas Inc,3824,48.3
+2026-03-05 13:06:27,Castillo LLC,3826,15.6
+2026-03-05 00:46:06,Sanford Ltd,3696,47.97
+2026-03-03 22:36:10,Garcia PLC,3604,2.51
+2026-03-01 08:53:28,Hunt and Sons,5655,3.86
+2026-03-03 11:46:40,Anderson and Sons,8021,83.83
+2026-03-01 14:42:01,Campbell-Watson,3535,94.14
+2026-03-05 15:38:44,Edwards-Booth,3597,53.72
+2026-03-04 21:14:06,Williams-Braun,5945,78.06
+2026-03-02 09:50:18,Garcia-Craig,8911,31.51
+2026-03-04 00:23:08,Ruiz-Austin,5199,25.37
+2026-03-02 12:59:40,Rogers Davis and Richard,3628,79.8
+2026-03-06 14:27:49,Strong PLC,3294,8.16
+2026-03-04 06:35:35,Gutierrez LLC,3831,90.7
+2026-03-04 17:22:10,Gutierrez-Green,3585,54.53
+2026-03-04 22:11:22,Mccarthy Johnson and Gray,3621,52.51
+2026-03-02 00:56:52,Davis-Johnson,9211,72.42
+2026-03-05 00:12:23,Gross Group,3036,44.07
+2026-03-06 13:30:37,Nichols-Cobb,3603,36.58
+2026-03-02 23:46:42,Pierce Evans and Robinson,3558,42.82
+2026-03-02 12:50:16,Lowe Thornton and Mccann,3654,67.49
+2026-03-01 14:58:10,Brown-Gates,3510,97.52
+2026-03-02 16:15:24,Frederick Foley and Pugh,5533,95.43
+2026-03-02 06:01:29,Miller Inc,3531,51.72
+2026-03-05 09:48:55,Baker-Warner,3433,56.31
+2026-03-03 19:12:35,Landry Inc,3182,87.59
+2026-03-01 11:29:28,Sherman Miller and Jensen,5172,64.3
+2026-03-04 21:05:06,Nicholson Garcia and Gray,3154,26.86
+2026-03-04 10:08:24,Henderson-Nolan,4215,37.0
+2026-03-04 20:00:12,Jones-Bray,5533,35.79
+2026-03-04 19:49:37,Hunter Inc,3724,66.4
+2026-03-01 22:51:22,Cochran Ltd,5935,77.61
+2026-03-05 15:43:52,Mcknight PLC,3726,76.15
+2026-03-01 01:43:04,Key-Warren,5994,6.34
+2026-03-01 07:45:36,Perez Group,3533,35.18
+2026-03-01 16:57:32,Morris Rodriguez and Dickerson,3632,19.16
+2026-03-04 14:07:18,Thomas Brown and Hall,3772,69.1
+2026-03-05 08:39:15,Wilkins Jackson and Dean,3686,48.9
+2026-03-05 18:05:10,Rangel-Snyder,7395,81.53
+2026-03-04 06:09:37,Rivera Simon and Cox,5441,72.17
+2026-03-01 18:39:31,Mcdaniel Scott and Bailey,3294,5.62
+2026-03-04 06:44:44,Williams Miller and Castillo,7832,6.29
+2026-03-03 07:46:14,Payne LLC,7800,88.81
+2026-03-06 09:33:22,Pacheco Group,3061,93.47
+2026-03-06 17:15:40,Jennings-Randolph,3501,41.03
+2026-03-03 06:08:35,Garcia-Phillips,3809,55.22
+2026-03-04 15:25:44,Weber Ramirez and Cooper,9752,5.59
+2026-03-03 09:06:46,Fleming-Stone,3636,20.73
+2026-03-04 04:05:42,Murray Thomas and Golden,3126,86.49
+2026-03-01 01:34:06,Fitzgerald-Bennett,5199,86.85
+2026-03-02 17:57:01,Rice LLC,3081,28.78
+2026-03-03 15:44:17,Doyle Medina and Green,3793,38.07
+2026-03-03 19:06:50,Thomas-Randall,3196,74.84
+2026-03-03 18:29:41,Odonnell Williams and Valenzuela,3177,35.23
+2026-03-04 13:09:41,Booth Brown and Gomez,7531,50.63
+2026-03-04 17:36:40,West Inc,3420,38.0
+2026-03-04 13:13:23,Morris Jensen and Myers,3791,52.89
+2026-03-02 04:16:41,Le Journal,3795,73.25
+2026-03-02 01:19:09,Duncan Duncan and Lane,5651,44.2
+2026-03-03 20:02:55,Myers-Smith,3817,19.68
+2026-03-05 07:49:19,Hudson-Vazquez,3038,33.48
+2026-03-01 09:49:40,Marsh-Peterson,5655,34.14
+2026-03-05 11:54:41,Escobar and Sons,3040,32.04
+2026-03-04 16:52:32,Malone Ltd,3591,72.33
+2026-03-06 16:07:37,Molina-Patel,7278,69.6
+2026-03-02 11:15:24,West PLC,3111,45.82
+2026-03-05 18:55:49,Price Group,3718,87.26
+2026-03-05 04:38:34,Bennett-Figueroa,3115,62.26
+2026-03-01 17:31:21,Smith Morse and Shaffer,3251,28.91
+2026-03-01 20:24:03,Thompson Perez and Brown,3785,94.89
+2026-03-03 16:48:04,Shah-Page,5611,67.78
+2026-03-06 14:51:08,Haynes Ltd,3211,37.6
+2026-03-02 13:49:30,Presse,3795,68.58
+2026-03-02 11:33:32,Brown-Pope,5021,15.99
+2026-03-04 01:56:12,Park Calhoun and Smith,3596,68.45
+2026-03-03 09:01:30,Kelly-Ward,3254,5.41
+2026-03-02 14:10:47,Moore Buck and Stout,5532,25.13
+2026-03-04 15:31:14,Kirby Cherry and Hampton,3634,37.9
+2026-03-02 03:24:48,Davis-Booth,3174,95.05
+2026-03-04 18:56:31,Sullivan Garcia and Mcintyre,5046,61.3
+2026-03-06 09:25:03,Burns-Short,3669,46.09
+2026-03-02 00:13:08,Townsend-Hart,3146,38.46
+2026-03-06 00:41:43,Reynolds Ltd,3755,9.53
+2026-03-01 21:05:19,Warren PLC,5998,53.89
+2026-03-03 20:29:45,Lucas-Jacobson,3191,32.81
+2026-03-05 07:35:47,Daugherty and Sons,3023,26.46
+2026-03-05 17:24:05,Smith Ltd,5948,4.54
+2026-03-04 19:21:52,Smith Reeves and Davis,7523,50.91
+2026-03-03 07:08:58,Burch-Gallagher,3178,91.53
+2026-03-04 07:28:21,Boyer-Johnson,5961,27.65
+2026-03-03 08:34:23,Jones-Williams,3004,71.0
+2026-03-01 23:58:45,Murray Gonzalez and Hernandez,8011,99.64
+2026-03-05 15:39:49,Johnson PLC,3030,70.01
+2026-03-04 14:58:53,House Group,3396,21.62
+2026-03-01 03:50:30,Sanchez-Hubbard,5996,85.58
+2026-03-01 23:28:01,Flynn Group,3284,18.92
+2026-03-01 04:46:15,Rhodes Perez and Fisher,3704,45.62
+2026-03-06 02:35:55,Joseph Taylor and Lewis,5714,81.43
+2026-03-03 09:30:10,Edwards and Sons,3065,67.45
+2026-03-03 13:25:49,Morgan-Baker,3700,8.36
+2026-03-03 06:19:31,Cook Inc,3529,30.46
+2026-03-02 01:39:33,Rodriguez Inc,3045,85.43
+2026-03-02 01:40:21,Beck-Bennett,3702,71.54
+2026-03-02 05:54:33,Anderson Villarreal and Jones,3691,64.49
+2026-03-01 00:39:44,Hill-Bruce,3787,37.43
+2026-03-01 18:51:28,Delacruz-Lewis,8071,13.89
+2026-03-06 02:39:59,Conrad Ltd,7802,79.62
+2026-03-06 07:56:46,Johnson-Oliver,8743,79.46
+2026-03-04 18:29:27,Dixon-Scott,4814,37.37
+2026-03-01 19:49:14,Wilcox Group,3560,38.15
+2026-03-06 13:17:14,Lopez Ltd,3797,98.34
+2026-03-01 10:43:40,Vincent Group,5977,61.97
+2026-03-03 01:17:47,Sullivan LLC,5713,8.44
+2026-03-04 20:53:09,Kelley Inc,3191,99.96
+2026-03-01 14:24:12,Bailey-Cruz,3710,48.91
+2026-03-04 01:00:00,Ramirez-Archer,3217,77.38
+2026-03-01 09:32:26,Lawson Inc,3818,58.34
+2026-03-01 18:43:51,Richards-Rodriguez,5973,97.29
+2026-03-02 13:55:38,Davis-Miller,3631,9.27
+2026-03-03 20:00:12,Flynn-Mcgrath,3354,68.65
+2026-03-06 11:24:18,Moore-Arnold,3098,14.58
+2026-03-03 18:43:06,Wheeler Fitzpatrick and Nelson,3823,78.47
+2026-03-05 13:50:25,Smith Sawyer and Watts,3629,59.6
+2026-03-01 05:49:13,Bryant-Dixon,3761,96.69
+2026-03-03 08:41:17,Henson-French,3247,51.28
+2026-03-03 03:28:17,Stevenson Jennings and Brown,5300,83.48
+2026-03-04 19:37:02,Burton-Johnston,3504,17.0
+2026-03-06 08:36:49,Ramirez Ltd,7276,17.87
+2026-03-01 18:34:46,Hebert-Lopez,3700,24.1
+2026-03-04 09:54:47,Ellis Ltd,3505,89.7
+2026-03-06 23:31:20,Burgess Gonzalez and Cunningham,5651,26.56
