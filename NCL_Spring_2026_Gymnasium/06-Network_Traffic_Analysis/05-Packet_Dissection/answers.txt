@@ -1,4 +1,0 @@
-Q1 (Header Checksum): 4F93
-Q2 (TTL): 64
-Q3 (Source IP): 192.168.128.128
-Q4 (Destination IP): 159.203.96.154

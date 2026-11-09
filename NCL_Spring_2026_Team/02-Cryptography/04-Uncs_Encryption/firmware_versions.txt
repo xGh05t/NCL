@@ -1,3 +1,0 @@
-0xeabcb0e351e3a965b2dde95a1a1ecbffea59aed1c7cbfbfb58b4fac615053fad  v1.20-TeaCupSaucer-GraphicsPatch
-0xeabcb0e351e3a965b2dde95a1a1ecbffea59aed1c7cbfbfb58b4fac615053fad  v1.50-BingoCaller-SecurityUpdate
-0xeabcb0e351e3a965b2dde95a1a1ecbffea59aed1c7cbfbfb58b4fac615053fad  v1.90-YarnBasket-PowerUpdate

@@ -1,8 +1,0 @@
-Q1: user1:cyberskyline
-Q2: FileZilla Server 0.9.53 beta
-Q3: user1:metropolis
-Q4: LIST
-Q5: bank.cap
-Q6: compcodes.zip
-Q7: 28183
-Q8: compcodes.zip

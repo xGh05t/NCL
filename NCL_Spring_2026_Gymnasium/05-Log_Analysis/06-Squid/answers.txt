@@ -1,8 +1,0 @@
-Q1: 2010
-Q2: 5
-Q3: 41762
-Q4: 4
-Q5: 35
-Q6: 78
-Q7: Symantec
-Q8: http://liveupdate.symantecliveupdate.com/streaming/norton$202009$20streaming$20virus$20definitions_1.0_symalllanguages_livetri.zip
